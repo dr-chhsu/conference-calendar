@@ -77,6 +77,25 @@ python3 monitor.py
 
 ## 維護與驗證
 
+已新增 [定期網站健康檢查](https://github.com/dr-chhsu/conference-calendar/actions/workflows/health.yml)：每天台灣 03:43、09:43、15:43、21:43（GitHub 可能延遲），以及每次日曆部署工作流程結束後執行。
+
+- 檢查首頁、JSON 與六種 `.ics` 公開網址、事件格式、UID 唯一性與補助子集合一致性。
+- 偵測日曆或官網追蹤超過 36 小時未更新、全部來源失敗、JavaScript 錯誤。
+- 使用 Chromium 實際測試搜尋、領域／補助／核實狀態篩選、複製網址、Apple 訂閱連結與手機寬度。
+- 網路請求最多重試三次；持續失敗則讓工作流程失敗，於 Actions Summary 顯示診斷，保留 JSON 報告、截圖、瀏覽器 trace 30 天。
+- 部分學會擋爬蟲會列為來源警示，不會把網站正常運作誤報成網站故障。此排程不會自動改寫程式碼或取代人工確認會議日期；尚未設定另外寄信或發訊息。GitHub 自身通知依帳號既有設定。
+
+本機診斷（額外套件與獨立環境）：
+
+```bash
+python3 -m venv .venv-health
+.venv-health/bin/python -m pip install -r health_requirements.txt
+.venv-health/bin/python -m playwright install chromium
+.venv-health/bin/python health_check.py
+```
+
+報告預設存到 `health-results/`，不會發布到日曆內容。檢查 GitHub Actions 的最後成功時間，可確認排程確實持續運作。
+
 - 日常資料：`data/conferences.json`。補助來源：`data/subsidies.json`。
 - 新來源／規則：修改 `make_rules.py` 後執行 `python3 make_rules.py`；檢查年份、會議身分和日期類型，避免將註冊或其他學會的日期混入。
 - `enrich.py` 是首次整理的歷史腳本，日常更新**不要重跑**，以免覆蓋後續人工核對。

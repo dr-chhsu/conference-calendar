@@ -1,0 +1,38 @@
+name: Calendar website health check
+on:
+  schedule:
+    - cron: '43 1,7,13,19 * * *'
+  workflow_dispatch:
+  workflow_run:
+    workflows: ['Update and publish conference calendars']
+    types: [completed]
+permissions:
+  contents: read
+concurrency:
+  group: conference-calendar-health
+  cancel-in-progress: false
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: health_requirements.txt
+      - name: Install diagnostic tools
+        run: |
+          python -m pip install -r health_requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Check production website and subscription feeds
+        run: python health_check.py
+      - name: Preserve diagnostics and screenshots
+        if: always()
+        uses: actions/upload-artifact@v5
+        with:
+          name: calendar-health-${{ github.run_id }}
+          path: health-results/
+          retention-days: 30
+          if-no-files-found: warn

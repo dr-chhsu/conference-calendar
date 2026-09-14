@@ -23,7 +23,7 @@
 <div class="scroll"><table><thead><tr><th>會議</th><th>開會日期／地點</th><th>投稿截止</th><th>來源與狀態</th></tr></thead><tbody id="rows"></tbody></table></div>
 <p class="muted">截止時間有官方時區時，轉為台灣時間顯示。僅公告日期的項目以全天事件呈現；月份、TBD 和來源衝突不會被捏造成確切截止日。</p>
 <details><summary id="review-title">更新與待確認項目</summary><p class="muted">網站改版、圖片公告、讀取失敗、未確認的新年度或來源不一致，都會列入此處。自動解析無法保證涵蓋每個官網的所有變更。</p><div id="review"></div></details>
-<footer>補助註記依使用者提供簡報第12頁「院內補助出席國際學術會議－一般外科名單」。名單未載適用年度與申請條件；「未列名」不表示一定無補助。原始簡報未修改。</footer>
+<footer>補助註記依使用者提供簡報第12頁「院內補助出席國際學術會議－一般外科名單」。名單未載適用年度與申請條件；「未列名」不表示一定無補助。原始簡報未修改。<p><a href="https://github.com/dr-chhsu/conference-calendar/actions/workflows/health.yml" target="_blank" rel="noopener">查看網站定期健康檢查紀錄</a> · 每 6 小時檢查，也會在部署後檢查。</p></footer>
 </main><div id="toast" role="status"></div>
 <script>
 const $=s=>document.querySelector(s);const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

@@ -7,3 +7,5 @@ image*.png
 *.zip
 preview.png
 data/automation-active.json
+health-results/
+.venv-health/
