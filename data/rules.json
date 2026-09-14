@@ -1,0 +1,360 @@
+[
+  {
+    "record": "sages-2027",
+    "kind": "deadline",
+    "url": "https://www.sages2027.org/",
+    "pattern": "Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))[,\\s]*(?:at|@)?\\s*(?P<time>\\d{1,2}:\\d{2}\\s*[AP]M)\\s*\\(?(?P<zone>PDT|PST|PT|EDT|EST|ET|Eastern Time|JST|KST)\\)?",
+    "identity": "SAGES.{0,70}2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "ahpba-2027",
+    "kind": "deadline",
+    "url": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
+    "pattern": "Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))[,\\s]*(?:at|@)?\\s*(?P<time>\\d{1,2}:\\d{2}\\s*[AP]M)\\s*\\(?(?P<zone>PDT|PST|PT|EDT|EST|ET|Eastern Time|JST|KST)\\)?",
+    "identity": "AHPBA.{0,70}2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "aaes-2027",
+    "kind": "deadline",
+    "url": "https://aaes.memberclicks.net/2027-annual-meeting-home",
+    "pattern": "Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "AAES.{0,70}2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "ehs-2027",
+    "kind": "deadline",
+    "url": "https://europeanherniasociety.eu/ehs2027/",
+    "pattern": "ABSTRACT SUBMISSION DEADLINE\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "EHS.{0,70}2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "a-phpba-2027",
+    "kind": "deadline",
+    "url": "https://aphpba2027.com/",
+    "pattern": "Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "A\\-PHPBA.{0,70}2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "aphs-2026",
+    "kind": "deadline",
+    "url": "https://aphs2026.jp/ap/call-for-papers.html",
+    "pattern": "Abstract Submission Deadline for Oral Presentations\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "APHS\\s*2026",
+    "deadline": "oral",
+    "label": "口頭報告投稿截止",
+    "date_timezone": "Asia/Tokyo"
+  },
+  {
+    "record": "aphs-2026",
+    "kind": "deadline",
+    "url": "https://aphs2026.jp/ap/call-for-papers.html",
+    "pattern": "Abstract Submission Deadline for E\\.Poster Presentations\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "APHS\\s*2026",
+    "deadline": "eposter",
+    "label": "電子海報投稿截止",
+    "date_timezone": "Asia/Tokyo"
+  },
+  {
+    "record": "st-gallen-2027",
+    "kind": "deadline",
+    "url": "https://www.sg-bcc.org/",
+    "pattern": "Abstract submission for SGBCC 2027.{0,110}until\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "SGBCC 2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "asco-gi-2027",
+    "kind": "deadline",
+    "url": "https://www.asco.org/gi/abstracts-presentations/submission-details/requirements",
+    "pattern": "(?<!Breaking )Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))[,\\s]*(?:at|@)?\\s*(?P<time>\\d{1,2}:\\d{2}\\s*[AP]M)\\s*\\(?(?P<zone>PDT|PST|PT|EDT|EST|ET|Eastern Time|JST|KST)\\)?",
+    "identity": "2027 ASCO Gastrointestinal",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "asco-gi-2027",
+    "kind": "deadline",
+    "url": "https://www.asco.org/gi/abstracts-presentations/submission-details/requirements",
+    "pattern": "Late-Breaking Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))[,\\s]*(?:at|@)?\\s*(?P<time>\\d{1,2}:\\d{2}\\s*[AP]M)\\s*\\(?(?P<zone>PDT|PST|PT|EDT|EST|ET|Eastern Time|JST|KST)\\)?",
+    "identity": "2027 ASCO Gastrointestinal",
+    "deadline": "late-breaking",
+    "label": "Late-breaking 投稿截止（需符合資格）"
+  },
+  {
+    "record": "wctc-2027",
+    "kind": "deadline",
+    "url": "https://thyroidworldcongress.com/",
+    "pattern": "Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "World Congress on Thyroid Cancer",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "ills-2027",
+    "kind": "deadline",
+    "url": "https://www.ills2027.com/",
+    "pattern": "Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "ILLS 2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "gbcc-2027",
+    "kind": "deadline",
+    "url": "https://www.gbcc.kr/main.asp",
+    "pattern": "Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "GBCC 2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "ifso-2027",
+    "kind": "deadline",
+    "url": "https://ifso2027.org/",
+    "pattern": "Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "IFSO.*2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "wctc-2027",
+    "kind": "deadline",
+    "url": "https://thyroidworldcongress.com/abstracts/",
+    "pattern": "Abstract submissions close\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "WCTC.{0,100}2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "sso-2027",
+    "kind": "deadline",
+    "url": "https://sso2027.eventscribe.net/aaStatic.asp?SFP=UUVUVVJFUlpAMjY4NzBAQWJzdHJhY3QgU3VibWlzc2lvbg",
+    "pattern": "Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "SSO.{0,100}2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "gbcc-2027",
+    "kind": "deadline",
+    "url": "https://www.gbcc.kr/Contents.asp?LoadPage=SubmissionGuideline_2027",
+    "pattern": "Abstract Submission Deadline\\s*:?\\s*(?:[A-Za-z]+,\\s*)?(?P<date>(?:(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2}(?:\\s*\\([A-Za-z]+\\))?,?\\s+20\\d{2}|\\d{1,2}\\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\\s+20\\d{2}|20\\d{2}-\\d{2}-\\d{2}))",
+    "identity": "GBCC.{0,100}2027",
+    "deadline": "abstract",
+    "label": "摘要投稿截止"
+  },
+  {
+    "record": "sages-2027",
+    "kind": "meeting",
+    "url": "https://www.sages2027.org/",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "SAGES.{0,120}2027"
+  },
+  {
+    "record": "ahpba-2027",
+    "kind": "meeting",
+    "url": "https://www.ahpba.org/future-meetings/",
+    "pattern": "AHPBA 2027\\s*\\|\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "AHPBA.{0,120}2027"
+  },
+  {
+    "record": "aaes-2027",
+    "kind": "meeting",
+    "url": "https://aaes.memberclicks.net/2027-annual-meeting-home",
+    "pattern": "Scientific Meeting:\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "AAES.{0,120}2027"
+  },
+  {
+    "record": "a-phpba-2027",
+    "kind": "meeting",
+    "url": "https://aphpba2027.com/",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "A\\-PHPBA.{0,120}2027"
+  },
+  {
+    "record": "ehs-2027",
+    "kind": "meeting",
+    "url": "https://europeanherniasociety.eu/ehs2027/",
+    "pattern": "CONFERENCE DATES\\s*(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2027)",
+    "identity": "EHS.{0,120}2027"
+  },
+  {
+    "record": "st-gallen-2027",
+    "kind": "meeting",
+    "url": "https://www.sg-bcc.org/",
+    "pattern": "(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2027)",
+    "identity": "SGBCC 2027"
+  },
+  {
+    "record": "ihpba-2028",
+    "kind": "meeting",
+    "url": "https://www.ihpba.org/19_World-Congress.html",
+    "pattern": "World Congress - Vancouver, Canada\\s*(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2028)",
+    "identity": "International Hepato-Pancreato-Biliary"
+  },
+  {
+    "record": "e-ahpba-2027",
+    "kind": "meeting",
+    "url": "https://eahpba.org/education-and-training/congress/",
+    "pattern": "E-AHPBA Biennial Congress\\s*[-–]\\s*(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2027)",
+    "identity": "E-AHPBA"
+  },
+  {
+    "record": "ifso-2027",
+    "kind": "meeting",
+    "url": "https://www.ifso.com/world-congress/",
+    "pattern": "(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2027)",
+    "identity": "IFSO.{0,120}2027"
+  },
+  {
+    "record": "ifso-2028",
+    "kind": "meeting",
+    "url": "https://www.ifso.com/world-congress/",
+    "pattern": "(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2028)",
+    "identity": "IFSO.{0,120}2028"
+  },
+  {
+    "record": "asmbs-2027",
+    "kind": "meeting",
+    "url": "https://asmbs.org/professional-development/meetings-of-interest/",
+    "pattern": "ASMBS Annual Meeting 2027\\s*(?P<startmonth>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<endmonth>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "ASMBS.{0,120}2027"
+  },
+  {
+    "record": "asmbs-2028",
+    "kind": "meeting",
+    "url": "https://asmbs.org/professional-development/meetings-of-interest/",
+    "pattern": "ASMBS Annual Meeting 2028\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2028)",
+    "identity": "ASMBS.{0,120}2028"
+  },
+  {
+    "record": "gbcc-2027",
+    "kind": "meeting",
+    "url": "https://www.gbcc.kr/main.asp",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "GBCC.{0,120}2027"
+  },
+  {
+    "record": "wctc-2027",
+    "kind": "meeting",
+    "url": "https://thyroidworldcongress.com/",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "World Congress on Thyroid Cancer"
+  },
+  {
+    "record": "amee-2027",
+    "kind": "meeting",
+    "url": "https://amee.org/events/",
+    "pattern": "Helsinki, Finland\\.\\s*(?P<first>\\d{1,2})\\s+(?P<startmonth>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s+(?P<endmonth>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2027)",
+    "identity": "AMEE.{0,120}2027"
+  },
+  {
+    "record": "wcs-2028",
+    "kind": "meeting",
+    "url": "https://www.isw2028.com/",
+    "pattern": "Join us from\\s*(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2028)",
+    "identity": "SURGICAL WEEK 2028"
+  },
+  {
+    "record": "apmec-2027",
+    "kind": "meeting",
+    "url": "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html",
+    "pattern": "(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2027)",
+    "identity": "APMEC 2027"
+  },
+  {
+    "record": "eaes-2027",
+    "kind": "meeting",
+    "url": "https://www.duesseldorfcongress.de/en/dusseldorf-congress-brings-international-eaes-2027-surgical-congress-to-the-state-capital/",
+    "pattern": "from\\s*(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2027)",
+    "identity": "EAES.{0,120}2027"
+  },
+  {
+    "record": "sso-2027",
+    "kind": "meeting",
+    "url": "https://surgonc.org/events/sso-annual-meeting/",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "SSO.{0,120}2027"
+  },
+  {
+    "record": "sso-2028",
+    "kind": "meeting",
+    "url": "https://surgonc.org/events/sso-annual-meeting/",
+    "pattern": "SSO 2028 Tampa, FL\\s*(?P<startmonth>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<endmonth>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2028)",
+    "identity": "SSO.{0,120}2028"
+  },
+  {
+    "record": "sabcs-2026",
+    "kind": "meeting",
+    "url": "https://sabcs.org/media/future-symposia/",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2026)",
+    "identity": "San Antonio Breast Cancer Symposium"
+  },
+  {
+    "record": "sabcs-2027",
+    "kind": "meeting",
+    "url": "https://sabcs.org/media/future-symposia/",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "San Antonio Breast Cancer Symposium"
+  },
+  {
+    "record": "ata-2026",
+    "kind": "meeting",
+    "url": "https://thyroid.joynmeeting.com/conference/",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2026)",
+    "identity": "American Thyroid Association"
+  },
+  {
+    "record": "elsa-2026",
+    "kind": "meeting",
+    "url": "https://elsasociety.org/congress-2/",
+    "pattern": "(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2026)",
+    "identity": "ELSA 2026"
+  },
+  {
+    "record": "esa-2027",
+    "kind": "meeting",
+    "url": "https://www.europeansurgicalassociation.org/",
+    "pattern": "Date:\\s*(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December)),?\\s+(?P<year>2027)",
+    "identity": "European Surgical Association"
+  },
+  {
+    "record": "ills-2027",
+    "kind": "meeting",
+    "url": "https://www.ills2027.com/",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "ILLS 2027"
+  },
+  {
+    "record": "jgca-2027",
+    "kind": "meeting",
+    "url": "https://kwcs.jp/99jgca/e-outl.html",
+    "pattern": "On-site］(?P<startmonth>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<endmonth>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "99th Annual Meeting"
+  },
+  {
+    "record": "aamc-2027",
+    "kind": "meeting",
+    "url": "https://www.aamc.org/learn-network/learn-serve-lead",
+    "pattern": "(?P<month>(?:January|February|March|April|May|June|July|August|September|October|November|December))\\s+(?P<first>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*\\s*(?:[-–—]|to)\\s*(?P<last>\\d{1,2})\\s*(?:\\([A-Za-z.]+\\))?\\s*,?\\s*(?P<year>2027)",
+    "identity": "Learn Serve Lead"
+  },
+  {
+    "record": "eta-2027",
+    "kind": "meeting",
+    "url": "https://www.eurothyroid.com/events/48th-annual-meeting-of-the-european-thyroid-association.html",
+    "pattern": "(?P<start>\\d{2}\\.\\d{2}\\.2027)\\s*[-–]\\s*(?P<end>\\d{2}\\.\\d{2}\\.2027)",
+    "identity": "ETA2027"
+  }
+]

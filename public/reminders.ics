@@ -1,0 +1,1265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GS Academic Conferences//ZH-TW
+CALSCALE:GREGORIAN
+X-WR-CALNAME:國際會議｜投稿準備提醒
+X-WR-TIMEZONE:Asia/Taipei
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9f07bd38a0145473f00f8cca1d9501c1@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:【院內補助】A-PHPBA 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：HPB\n會議：A-PHPBA 2027\n地點：Busan\, South Kor
+ ea\n院內補助：列於一般外科補助名單（簡報第12頁；適
+ 用年度及申請條件未載明）\n資料狀態：官方資料已核對
+ \n截止日期：2027-04-11；未公告確切時間，全天顯示不代
+ 表可等到台灣午夜。\n來源：https://aphpba2027.com/\n日期核
+ 對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Busan\, South Korea
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphpba2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:6b17260b1bde5050adde9af059617ab7@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:【院內補助】A-PHPBA 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：HPB\n會議：A-PHPBA 2027\n地點：Busan\, South Kor
+ ea\n院內補助：列於一般外科補助名單（簡報第12頁；適
+ 用年度及申請條件未載明）\n資料狀態：官方資料已核對
+ \n截止日期：2027-04-11；未公告確切時間，全天顯示不代
+ 表可等到台灣午夜。\n來源：https://aphpba2027.com/\n日期核
+ 對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Busan\, South Korea
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphpba2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:fef4a4414ca7834b30370e9a8bb9c948@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:【院內補助】A-PHPBA 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：HPB\n會議：A-PHPBA 2027\n地點：Busan\, South Kor
+ ea\n院內補助：列於一般外科補助名單（簡報第12頁；適
+ 用年度及申請條件未載明）\n資料狀態：官方資料已核對
+ \n截止日期：2027-04-11；未公告確切時間，全天顯示不代
+ 表可等到台灣午夜。\n來源：https://aphpba2027.com/\n日期核
+ 對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Busan\, South Korea
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphpba2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:19e50b00353a48bf7e037cdeb87d2ca2@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:【院內補助】A-PHPBA 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：HPB\n會議：A-PHPBA 2027\n地點：Busan\, South Kor
+ ea\n院內補助：列於一般外科補助名單（簡報第12頁；適
+ 用年度及申請條件未載明）\n資料狀態：官方資料已核對
+ \n截止日期：2027-04-11；未公告確切時間，全天顯示不代
+ 表可等到台灣午夜。\n來源：https://aphpba2027.com/\n日期核
+ 對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Busan\, South Korea
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphpba2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:1baa2f8aa435bfdcba65ff84e3a0c7d8@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:AAES 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Endocrine Surgery\n會議：AAES 2027\n地點：Sacram
+ ento\, CA\n院內補助：未列於提供的名單\n資料狀態：官方
+ 資料已核對\n截止日期：2026-11-01；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：https://aaes.membercl
+ icks.net/2027-annual-meeting-home\n日期核對紀錄：2026-09-13
+LOCATION:Sacramento\, CA
+CATEGORIES:Endocrine Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aaes.memberclicks.net/2027-annual-meeting-home
+END:VEVENT
+BEGIN:VEVENT
+UID:e246de1b55c98bc6c1e231573b2ba702@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:AAES 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Endocrine Surgery\n會議：AAES 2027\n地點：Sacram
+ ento\, CA\n院內補助：未列於提供的名單\n資料狀態：官方
+ 資料已核對\n截止日期：2026-11-01；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：https://aaes.membercl
+ icks.net/2027-annual-meeting-home\n日期核對紀錄：2026-09-13
+LOCATION:Sacramento\, CA
+CATEGORIES:Endocrine Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aaes.memberclicks.net/2027-annual-meeting-home
+END:VEVENT
+BEGIN:VEVENT
+UID:27ce5fa2b8b30135c8684c2f7ce625ae@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:AAES 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Endocrine Surgery\n會議：AAES 2027\n地點：Sacram
+ ento\, CA\n院內補助：未列於提供的名單\n資料狀態：官方
+ 資料已核對\n截止日期：2026-11-01；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：https://aaes.membercl
+ icks.net/2027-annual-meeting-home\n日期核對紀錄：2026-09-13
+LOCATION:Sacramento\, CA
+CATEGORIES:Endocrine Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aaes.memberclicks.net/2027-annual-meeting-home
+END:VEVENT
+BEGIN:VEVENT
+UID:8f6bad180fbf16d1bf3be1b0cbc2b2cf@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:AAES 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Endocrine Surgery\n會議：AAES 2027\n地點：Sacram
+ ento\, CA\n院內補助：未列於提供的名單\n資料狀態：官方
+ 資料已核對\n截止日期：2026-11-01；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：https://aaes.membercl
+ icks.net/2027-annual-meeting-home\n日期核對紀錄：2026-09-13
+LOCATION:Sacramento\, CA
+CATEGORIES:Endocrine Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aaes.memberclicks.net/2027-annual-meeting-home
+END:VEVENT
+BEGIN:VEVENT
+UID:916041b88d2746523ade9fcb9785e6b7@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:【待核實】AAMC 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Medical Education\n會議：AAMC 2027\n地點：Washin
+ gton DC\n院內補助：未列於提供的名單\n資料狀態：僅據簡
+ 報，尚待官方核實\n截止日期：2026-12-07；未公告確切時
+ 間，全天顯示不代表可等到台灣午夜。\n來源：使用者提
+ 供的 Schedule of international conference - GS.pptx，第11頁
+LOCATION:Washington DC
+CATEGORIES:Medical Education,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.aamc.org/learn-network/learn-serve-lead
+END:VEVENT
+BEGIN:VEVENT
+UID:8d4397be003d6e0b347ede97322a4e05@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:【待核實】AAMC 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Medical Education\n會議：AAMC 2027\n地點：Washin
+ gton DC\n院內補助：未列於提供的名單\n資料狀態：僅據簡
+ 報，尚待官方核實\n截止日期：2026-12-07；未公告確切時
+ 間，全天顯示不代表可等到台灣午夜。\n來源：使用者提
+ 供的 Schedule of international conference - GS.pptx，第11頁
+LOCATION:Washington DC
+CATEGORIES:Medical Education,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.aamc.org/learn-network/learn-serve-lead
+END:VEVENT
+BEGIN:VEVENT
+UID:0209f63add202ba1f0c9ac5572e1164f@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:【待核實】AAMC 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Medical Education\n會議：AAMC 2027\n地點：Washin
+ gton DC\n院內補助：未列於提供的名單\n資料狀態：僅據簡
+ 報，尚待官方核實\n截止日期：2026-12-07；未公告確切時
+ 間，全天顯示不代表可等到台灣午夜。\n來源：使用者提
+ 供的 Schedule of international conference - GS.pptx，第11頁
+LOCATION:Washington DC
+CATEGORIES:Medical Education,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.aamc.org/learn-network/learn-serve-lead
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf51e1587842720b4ffcb4911082afd@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:【待核實】AAMC 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Medical Education\n會議：AAMC 2027\n地點：Washin
+ gton DC\n院內補助：未列於提供的名單\n資料狀態：僅據簡
+ 報，尚待官方核實\n截止日期：2026-12-07；未公告確切時
+ 間，全天顯示不代表可等到台灣午夜。\n來源：使用者提
+ 供的 Schedule of international conference - GS.pptx，第11頁
+LOCATION:Washington DC
+CATEGORIES:Medical Education,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://www.aamc.org/learn-network/learn-serve-lead
+END:VEVENT
+BEGIN:VEVENT
+UID:a1781ff8e23decb0955269b0ef0938a2@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20261005T035900Z
+DTEND:20261005T040000Z
+SUMMARY:【院內補助】AHPBA 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：HPB\n會議：AHPBA 2027\n地點：Miami\n院內補助
+ ：列於一般外科補助名單（簡報第12頁；適用年度及申請
+ 條件未載明）\n資料狀態：官方資料已核對\n官方截止：2
+ 026-10-05 23:59 (America/New_York)\n台灣時間：2026-10-06 11:59\n來
+ 源：https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATW
+ JIGK\n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Miami
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIG
+ K
+END:VEVENT
+BEGIN:VEVENT
+UID:7687e04502465d4be4c842da53852ee4@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260922T035900Z
+DTEND:20260922T040000Z
+SUMMARY:【院內補助】AHPBA 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：HPB\n會議：AHPBA 2027\n地點：Miami\n院內補助
+ ：列於一般外科補助名單（簡報第12頁；適用年度及申請
+ 條件未載明）\n資料狀態：官方資料已核對\n官方截止：2
+ 026-10-05 23:59 (America/New_York)\n台灣時間：2026-10-06 11:59\n來
+ 源：https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATW
+ JIGK\n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Miami
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIG
+ K
+END:VEVENT
+BEGIN:VEVENT
+UID:371e375f12ee38deb8e4e29a00418a75@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260906T035900Z
+DTEND:20260906T040000Z
+SUMMARY:【院內補助】AHPBA 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：HPB\n會議：AHPBA 2027\n地點：Miami\n院內補助
+ ：列於一般外科補助名單（簡報第12頁；適用年度及申請
+ 條件未載明）\n資料狀態：官方資料已核對\n官方截止：2
+ 026-10-05 23:59 (America/New_York)\n台灣時間：2026-10-06 11:59\n來
+ 源：https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATW
+ JIGK\n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Miami
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIG
+ K
+END:VEVENT
+BEGIN:VEVENT
+UID:642b49a615162f467b76ba04943b1c06@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260929T035900Z
+DTEND:20260929T040000Z
+SUMMARY:【院內補助】AHPBA 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：HPB\n會議：AHPBA 2027\n地點：Miami\n院內補助
+ ：列於一般外科補助名單（簡報第12頁；適用年度及申請
+ 條件未載明）\n資料狀態：官方資料已核對\n官方截止：2
+ 026-10-05 23:59 (America/New_York)\n台灣時間：2026-10-06 11:59\n來
+ 源：https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATW
+ JIGK\n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Miami
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIG
+ K
+END:VEVENT
+BEGIN:VEVENT
+UID:5a679f5fb654794e2ec10ad9c82cd697@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:【院內補助】APHS 2026｜電子海報投稿截止前 1 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-09-20；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:10c8c7acb0c72b62b9a81bac4eb5c77d@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:【院內補助】APHS 2026｜電子海報投稿截止前 14 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-09-20；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:b20f0bd41885e5114dc9439c1b4d7183@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:【院內補助】APHS 2026｜電子海報投稿截止前 30 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-09-20；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c62e5fc13815f7881aee3e5e815771@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:【院內補助】APHS 2026｜電子海報投稿截止前 7 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-09-20；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6f8413e13d1ffb7e43ae0674220df006@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:【院內補助】APHS 2026｜口頭報告投稿截止前 1 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-08-31；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:001f3ad4b882457248f25ce1ef1146d6@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:【院內補助】APHS 2026｜口頭報告投稿截止前 14 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-08-31；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd978e429851055f1f77a719769bd9f@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:【院內補助】APHS 2026｜口頭報告投稿截止前 30 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-08-31；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:d757bbadbdd9955337ff6af60144ee39@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:【院內補助】APHS 2026｜口頭報告投稿截止前 7 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-08-31；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ed8fc906d49a250b329fe4c2070edd6f@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20270126T045900Z
+DTEND:20270126T050000Z
+SUMMARY:ASCO 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Oncology\n會議：ASCO 2027\n地點：Chicago\, IL\n
+ 院內補助：未列於提供的名單\n資料狀態：官方資料已核
+ 對\n官方截止：2027-01-26 23:59 (America/New_York)\n台灣時間：20
+ 27-01-27 12:59\n來源：https://www.asco.org/meetings-education/meetings/
+ abstract-submissions\n日期核對紀錄：2026-09-13\n備註：McCormick 
+ Place
+LOCATION:Chicago\, IL
+CATEGORIES:Oncology,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/meetings-education/meetings/abstract-submissions
+END:VEVENT
+BEGIN:VEVENT
+UID:2559acc23aac4744c342f4e4aea741f2@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20270113T045900Z
+DTEND:20270113T050000Z
+SUMMARY:ASCO 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Oncology\n會議：ASCO 2027\n地點：Chicago\, IL\n
+ 院內補助：未列於提供的名單\n資料狀態：官方資料已核
+ 對\n官方截止：2027-01-26 23:59 (America/New_York)\n台灣時間：20
+ 27-01-27 12:59\n來源：https://www.asco.org/meetings-education/meetings/
+ abstract-submissions\n日期核對紀錄：2026-09-13\n備註：McCormick 
+ Place
+LOCATION:Chicago\, IL
+CATEGORIES:Oncology,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/meetings-education/meetings/abstract-submissions
+END:VEVENT
+BEGIN:VEVENT
+UID:e308629be1a5d286542cad95b1c624a1@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20261228T045900Z
+DTEND:20261228T050000Z
+SUMMARY:ASCO 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Oncology\n會議：ASCO 2027\n地點：Chicago\, IL\n
+ 院內補助：未列於提供的名單\n資料狀態：官方資料已核
+ 對\n官方截止：2027-01-26 23:59 (America/New_York)\n台灣時間：20
+ 27-01-27 12:59\n來源：https://www.asco.org/meetings-education/meetings/
+ abstract-submissions\n日期核對紀錄：2026-09-13\n備註：McCormick 
+ Place
+LOCATION:Chicago\, IL
+CATEGORIES:Oncology,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/meetings-education/meetings/abstract-submissions
+END:VEVENT
+BEGIN:VEVENT
+UID:52c664fe9a336763f992f98dcecedaca@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20270120T045900Z
+DTEND:20270120T050000Z
+SUMMARY:ASCO 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Oncology\n會議：ASCO 2027\n地點：Chicago\, IL\n
+ 院內補助：未列於提供的名單\n資料狀態：官方資料已核
+ 對\n官方截止：2027-01-26 23:59 (America/New_York)\n台灣時間：20
+ 27-01-27 12:59\n來源：https://www.asco.org/meetings-education/meetings/
+ abstract-submissions\n日期核對紀錄：2026-09-13\n備註：McCormick 
+ Place
+LOCATION:Chicago\, IL
+CATEGORIES:Oncology,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/meetings-education/meetings/abstract-submissions
+END:VEVENT
+BEGIN:VEVENT
+UID:9caf3622214c2f73025e72cf162c5b0c@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260922T035900Z
+DTEND:20260922T040000Z
+SUMMARY:ASCO GI 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Gastric Surgery\n會議：ASCO GI 2027\n地點：San F
+ rancisco\, CA\n院內補助：未列於提供的名單\n資料狀態：官
+ 方資料已核對\n官方截止：2026-09-22 23:59 (America/New_York)\n
+ 台灣時間：2026-09-23 11:59\n來源：https://www.asco.org/gi/abstract
+ s-presentations/submission-details/requirements\n日期核對紀錄：2026
+ -09-13
+LOCATION:San Francisco\, CA
+CATEGORIES:Gastric Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/gi/abstracts-presentations/submission-details/requ
+ irements
+END:VEVENT
+BEGIN:VEVENT
+UID:28c10407e0830e6e42a713ba252ec9f4@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260909T035900Z
+DTEND:20260909T040000Z
+SUMMARY:ASCO GI 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Gastric Surgery\n會議：ASCO GI 2027\n地點：San F
+ rancisco\, CA\n院內補助：未列於提供的名單\n資料狀態：官
+ 方資料已核對\n官方截止：2026-09-22 23:59 (America/New_York)\n
+ 台灣時間：2026-09-23 11:59\n來源：https://www.asco.org/gi/abstract
+ s-presentations/submission-details/requirements\n日期核對紀錄：2026
+ -09-13
+LOCATION:San Francisco\, CA
+CATEGORIES:Gastric Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/gi/abstracts-presentations/submission-details/requ
+ irements
+END:VEVENT
+BEGIN:VEVENT
+UID:d9c63984aa55669a8b4aad06b9a647e4@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260824T035900Z
+DTEND:20260824T040000Z
+SUMMARY:ASCO GI 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Gastric Surgery\n會議：ASCO GI 2027\n地點：San F
+ rancisco\, CA\n院內補助：未列於提供的名單\n資料狀態：官
+ 方資料已核對\n官方截止：2026-09-22 23:59 (America/New_York)\n
+ 台灣時間：2026-09-23 11:59\n來源：https://www.asco.org/gi/abstract
+ s-presentations/submission-details/requirements\n日期核對紀錄：2026
+ -09-13
+LOCATION:San Francisco\, CA
+CATEGORIES:Gastric Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/gi/abstracts-presentations/submission-details/requ
+ irements
+END:VEVENT
+BEGIN:VEVENT
+UID:a6396a25e7378544e0fa77e8b57e1dde@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260916T035900Z
+DTEND:20260916T040000Z
+SUMMARY:ASCO GI 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Gastric Surgery\n會議：ASCO GI 2027\n地點：San F
+ rancisco\, CA\n院內補助：未列於提供的名單\n資料狀態：官
+ 方資料已核對\n官方截止：2026-09-22 23:59 (America/New_York)\n
+ 台灣時間：2026-09-23 11:59\n來源：https://www.asco.org/gi/abstract
+ s-presentations/submission-details/requirements\n日期核對紀錄：2026
+ -09-13
+LOCATION:San Francisco\, CA
+CATEGORIES:Gastric Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/gi/abstracts-presentations/submission-details/requ
+ irements
+END:VEVENT
+BEGIN:VEVENT
+UID:dea8e6b9af3001d86ca7d18195c2f265@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20261021T160000Z
+DTEND:20261021T160100Z
+SUMMARY:ASCO GI 2027｜Late-breaking 投稿截止（需符合資格）前 1
+  天
+DESCRIPTION:領域：Gastric Surgery\n會議：ASCO GI 2027\n地點：San F
+ rancisco\, CA\n院內補助：未列於提供的名單\n資料狀態：官
+ 方資料已核對\n官方截止：2026-10-22 12:00 (America/New_York)\n
+ 台灣時間：2026-10-23 00:00\n來源：https://www.asco.org/gi/abstract
+ s-presentations/submission-details/requirements\n日期核對紀錄：2026
+ -09-13
+LOCATION:San Francisco\, CA
+CATEGORIES:Gastric Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/gi/abstracts-presentations/submission-details/requ
+ irements
+END:VEVENT
+BEGIN:VEVENT
+UID:72ad4305a4b07c45284f34dbeace4728@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20261008T160000Z
+DTEND:20261008T160100Z
+SUMMARY:ASCO GI 2027｜Late-breaking 投稿截止（需符合資格）前 1
+ 4 天
+DESCRIPTION:領域：Gastric Surgery\n會議：ASCO GI 2027\n地點：San F
+ rancisco\, CA\n院內補助：未列於提供的名單\n資料狀態：官
+ 方資料已核對\n官方截止：2026-10-22 12:00 (America/New_York)\n
+ 台灣時間：2026-10-23 00:00\n來源：https://www.asco.org/gi/abstract
+ s-presentations/submission-details/requirements\n日期核對紀錄：2026
+ -09-13
+LOCATION:San Francisco\, CA
+CATEGORIES:Gastric Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/gi/abstracts-presentations/submission-details/requ
+ irements
+END:VEVENT
+BEGIN:VEVENT
+UID:66fe12d302a2faecba2340540757a2d7@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260922T160000Z
+DTEND:20260922T160100Z
+SUMMARY:ASCO GI 2027｜Late-breaking 投稿截止（需符合資格）前 3
+ 0 天
+DESCRIPTION:領域：Gastric Surgery\n會議：ASCO GI 2027\n地點：San F
+ rancisco\, CA\n院內補助：未列於提供的名單\n資料狀態：官
+ 方資料已核對\n官方截止：2026-10-22 12:00 (America/New_York)\n
+ 台灣時間：2026-10-23 00:00\n來源：https://www.asco.org/gi/abstract
+ s-presentations/submission-details/requirements\n日期核對紀錄：2026
+ -09-13
+LOCATION:San Francisco\, CA
+CATEGORIES:Gastric Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/gi/abstracts-presentations/submission-details/requ
+ irements
+END:VEVENT
+BEGIN:VEVENT
+UID:3477f26ca78bcab41b6bd6d8e3b5e212@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20261015T160000Z
+DTEND:20261015T160100Z
+SUMMARY:ASCO GI 2027｜Late-breaking 投稿截止（需符合資格）前 7
+  天
+DESCRIPTION:領域：Gastric Surgery\n會議：ASCO GI 2027\n地點：San F
+ rancisco\, CA\n院內補助：未列於提供的名單\n資料狀態：官
+ 方資料已核對\n官方截止：2026-10-22 12:00 (America/New_York)\n
+ 台灣時間：2026-10-23 00:00\n來源：https://www.asco.org/gi/abstract
+ s-presentations/submission-details/requirements\n日期核對紀錄：2026
+ -09-13
+LOCATION:San Francisco\, CA
+CATEGORIES:Gastric Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.asco.org/gi/abstracts-presentations/submission-details/requ
+ irements
+END:VEVENT
+BEGIN:VEVENT
+UID:c424fef6dae90e956720959ed8fd863d@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:【院內補助】EHS 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Hernia\n會議：EHS 2027\n地點：Antwerp\, Belgium\
+ n院內補助：列於一般外科補助名單（簡報第12頁；適用
+ 年度及申請條件未載明）\n資料狀態：官方資料已核對\n
+ 截止日期：2027-02-01；未公告確切時間，全天顯示不代表
+ 可等到台灣午夜。\n來源：https://europeanherniasociety.eu/ehs202
+ 7/\n日期核對紀錄：2026-09-13
+LOCATION:Antwerp\, Belgium
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://europeanherniasociety.eu/ehs2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:cec444d9a0ea466e03dfba5d4dcb92c0@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:【院內補助】EHS 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Hernia\n會議：EHS 2027\n地點：Antwerp\, Belgium\
+ n院內補助：列於一般外科補助名單（簡報第12頁；適用
+ 年度及申請條件未載明）\n資料狀態：官方資料已核對\n
+ 截止日期：2027-02-01；未公告確切時間，全天顯示不代表
+ 可等到台灣午夜。\n來源：https://europeanherniasociety.eu/ehs202
+ 7/\n日期核對紀錄：2026-09-13
+LOCATION:Antwerp\, Belgium
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://europeanherniasociety.eu/ehs2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e621dac4b3db738c280d30f4146a50@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:【院內補助】EHS 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Hernia\n會議：EHS 2027\n地點：Antwerp\, Belgium\
+ n院內補助：列於一般外科補助名單（簡報第12頁；適用
+ 年度及申請條件未載明）\n資料狀態：官方資料已核對\n
+ 截止日期：2027-02-01；未公告確切時間，全天顯示不代表
+ 可等到台灣午夜。\n來源：https://europeanherniasociety.eu/ehs202
+ 7/\n日期核對紀錄：2026-09-13
+LOCATION:Antwerp\, Belgium
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://europeanherniasociety.eu/ehs2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:87f2f50ee43010c041f4a51460d572e6@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:【院內補助】EHS 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Hernia\n會議：EHS 2027\n地點：Antwerp\, Belgium\
+ n院內補助：列於一般外科補助名單（簡報第12頁；適用
+ 年度及申請條件未載明）\n資料狀態：官方資料已核對\n
+ 截止日期：2027-02-01；未公告確切時間，全天顯示不代表
+ 可等到台灣午夜。\n來源：https://europeanherniasociety.eu/ehs202
+ 7/\n日期核對紀錄：2026-09-13
+LOCATION:Antwerp\, Belgium
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://europeanherniasociety.eu/ehs2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d3f538da2dcb6caa9a66ee440163cb@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:【待核實】IGCC 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Gastric Surgery\n會議：IGCC 2027\n地點：Santiago
+ \, Chile\n院內補助：未列於提供的名單\n資料狀態：僅據
+ 簡報，尚待官方核實\n截止日期：2026-10-30；未公告確切
+ 時間，全天顯示不代表可等到台灣午夜。\n來源：使用者
+ 提供的 Schedule of international conference - GS.pptx，第4頁\n備註
+ ：Biennial
+LOCATION:Santiago\, Chile
+CATEGORIES:Gastric Surgery,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://igcc2027.com/igcc2027
+END:VEVENT
+BEGIN:VEVENT
+UID:9d510062bf2333d6e940fc7202760d59@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:【待核實】IGCC 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Gastric Surgery\n會議：IGCC 2027\n地點：Santiago
+ \, Chile\n院內補助：未列於提供的名單\n資料狀態：僅據
+ 簡報，尚待官方核實\n截止日期：2026-10-30；未公告確切
+ 時間，全天顯示不代表可等到台灣午夜。\n來源：使用者
+ 提供的 Schedule of international conference - GS.pptx，第4頁\n備註
+ ：Biennial
+LOCATION:Santiago\, Chile
+CATEGORIES:Gastric Surgery,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://igcc2027.com/igcc2027
+END:VEVENT
+BEGIN:VEVENT
+UID:3b3ead0a91126f5a26530e769e66ed14@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:【待核實】IGCC 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Gastric Surgery\n會議：IGCC 2027\n地點：Santiago
+ \, Chile\n院內補助：未列於提供的名單\n資料狀態：僅據
+ 簡報，尚待官方核實\n截止日期：2026-10-30；未公告確切
+ 時間，全天顯示不代表可等到台灣午夜。\n來源：使用者
+ 提供的 Schedule of international conference - GS.pptx，第4頁\n備註
+ ：Biennial
+LOCATION:Santiago\, Chile
+CATEGORIES:Gastric Surgery,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://igcc2027.com/igcc2027
+END:VEVENT
+BEGIN:VEVENT
+UID:53081e510c95eb9fddb76d91c9826210@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:【待核實】IGCC 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Gastric Surgery\n會議：IGCC 2027\n地點：Santiago
+ \, Chile\n院內補助：未列於提供的名單\n資料狀態：僅據
+ 簡報，尚待官方核實\n截止日期：2026-10-30；未公告確切
+ 時間，全天顯示不代表可等到台灣午夜。\n來源：使用者
+ 提供的 Schedule of international conference - GS.pptx，第4頁\n備註
+ ：Biennial
+LOCATION:Santiago\, Chile
+CATEGORIES:Gastric Surgery,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://igcc2027.com/igcc2027
+END:VEVENT
+BEGIN:VEVENT
+UID:adf84c61d28cb3aff6a61745f90ab036@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260911T065900Z
+DTEND:20260911T070000Z
+SUMMARY:【院內補助】SAGES 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Endoscopic Surgery\n會議：SAGES 2027\n地點：Las 
+ Vegas\, Nevada\n院內補助：列於一般外科補助名單（簡報第1
+ 2頁；適用年度及申請條件未載明）\n資料狀態：官方資
+ 料已核對\n官方截止：2026-09-11 23:59 (America/Los_Angeles)\n台
+ 灣時間：2026-09-12 14:59\n來源：https://www.sages.org/meetings/abst
+ racts/\n日期核對紀錄：2026-09-13
+LOCATION:Las Vegas\, Nevada
+CATEGORIES:Endoscopic Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sages.org/meetings/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:48c36adb02010533cab3d7ee47bc3377@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260829T065900Z
+DTEND:20260829T070000Z
+SUMMARY:【院內補助】SAGES 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Endoscopic Surgery\n會議：SAGES 2027\n地點：Las 
+ Vegas\, Nevada\n院內補助：列於一般外科補助名單（簡報第1
+ 2頁；適用年度及申請條件未載明）\n資料狀態：官方資
+ 料已核對\n官方截止：2026-09-11 23:59 (America/Los_Angeles)\n台
+ 灣時間：2026-09-12 14:59\n來源：https://www.sages.org/meetings/abst
+ racts/\n日期核對紀錄：2026-09-13
+LOCATION:Las Vegas\, Nevada
+CATEGORIES:Endoscopic Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sages.org/meetings/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf7d47414153aa14dd8daa586b242940@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260813T065900Z
+DTEND:20260813T070000Z
+SUMMARY:【院內補助】SAGES 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Endoscopic Surgery\n會議：SAGES 2027\n地點：Las 
+ Vegas\, Nevada\n院內補助：列於一般外科補助名單（簡報第1
+ 2頁；適用年度及申請條件未載明）\n資料狀態：官方資
+ 料已核對\n官方截止：2026-09-11 23:59 (America/Los_Angeles)\n台
+ 灣時間：2026-09-12 14:59\n來源：https://www.sages.org/meetings/abst
+ racts/\n日期核對紀錄：2026-09-13
+LOCATION:Las Vegas\, Nevada
+CATEGORIES:Endoscopic Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sages.org/meetings/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5e8f8a7b83c84628b3c834e1676cde@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260905T065900Z
+DTEND:20260905T070000Z
+SUMMARY:【院內補助】SAGES 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Endoscopic Surgery\n會議：SAGES 2027\n地點：Las 
+ Vegas\, Nevada\n院內補助：列於一般外科補助名單（簡報第1
+ 2頁；適用年度及申請條件未載明）\n資料狀態：官方資
+ 料已核對\n官方截止：2026-09-11 23:59 (America/Los_Angeles)\n台
+ 灣時間：2026-09-12 14:59\n來源：https://www.sages.org/meetings/abst
+ racts/\n日期核對紀錄：2026-09-13
+LOCATION:Las Vegas\, Nevada
+CATEGORIES:Endoscopic Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sages.org/meetings/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:e69d662647ffaf5179d0c9972c2945e2@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:【待核實】SSO 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Oncology\n會議：SSO 2027\n地點：Washington DC\n
+ 院內補助：未列於提供的名單\n資料狀態：僅據簡報，尚
+ 待官方核實\n截止日期：2026-10-05；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：使用者提供的 Sc
+ hedule of international conference - GS.pptx，第9頁\n備註：USA
+LOCATION:Washington DC
+CATEGORIES:Oncology,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://surgonc.org/events/sso-annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e525bfc31839cac0b382d8380760dc@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:【待核實】SSO 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Oncology\n會議：SSO 2027\n地點：Washington DC\n
+ 院內補助：未列於提供的名單\n資料狀態：僅據簡報，尚
+ 待官方核實\n截止日期：2026-10-05；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：使用者提供的 Sc
+ hedule of international conference - GS.pptx，第9頁\n備註：USA
+LOCATION:Washington DC
+CATEGORIES:Oncology,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://surgonc.org/events/sso-annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:542c043dc317c9d52a317dc2959af412@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:【待核實】SSO 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Oncology\n會議：SSO 2027\n地點：Washington DC\n
+ 院內補助：未列於提供的名單\n資料狀態：僅據簡報，尚
+ 待官方核實\n截止日期：2026-10-05；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：使用者提供的 Sc
+ hedule of international conference - GS.pptx，第9頁\n備註：USA
+LOCATION:Washington DC
+CATEGORIES:Oncology,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://surgonc.org/events/sso-annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:db0af3dd4aa5a330b43a43fd0d65225b@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:【待核實】SSO 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Oncology\n會議：SSO 2027\n地點：Washington DC\n
+ 院內補助：未列於提供的名單\n資料狀態：僅據簡報，尚
+ 待官方核實\n截止日期：2026-10-05；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：使用者提供的 Sc
+ hedule of international conference - GS.pptx，第9頁\n備註：USA
+LOCATION:Washington DC
+CATEGORIES:Oncology,reminder
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://surgonc.org/events/sso-annual-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf2deaa11ee007c5511eaea35197a14a@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:St. Gallen 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Breast\n會議：St. Gallen 2027\n地點：Vienna\, Au
+ stria\n院內補助：未列於提供的名單\n資料狀態：官方資
+ 料已核對\n截止日期：2026-12-15；未公告確切時間，全天
+ 顯示不代表可等到台灣午夜。\n來源：https://www.sg-bcc.org/\
+ n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Vienna\, Austria
+CATEGORIES:Breast,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sg-bcc.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9bd2110d459a2b50b0e1112168a865@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:St. Gallen 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Breast\n會議：St. Gallen 2027\n地點：Vienna\, Au
+ stria\n院內補助：未列於提供的名單\n資料狀態：官方資
+ 料已核對\n截止日期：2026-12-15；未公告確切時間，全天
+ 顯示不代表可等到台灣午夜。\n來源：https://www.sg-bcc.org/\
+ n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Vienna\, Austria
+CATEGORIES:Breast,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sg-bcc.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:83c26903249381ccdff9d79f5dfcb43c@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:St. Gallen 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Breast\n會議：St. Gallen 2027\n地點：Vienna\, Au
+ stria\n院內補助：未列於提供的名單\n資料狀態：官方資
+ 料已核對\n截止日期：2026-12-15；未公告確切時間，全天
+ 顯示不代表可等到台灣午夜。\n來源：https://www.sg-bcc.org/\
+ n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Vienna\, Austria
+CATEGORIES:Breast,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sg-bcc.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:28294555390f31fa36a38daaa160af72@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:St. Gallen 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Breast\n會議：St. Gallen 2027\n地點：Vienna\, Au
+ stria\n院內補助：未列於提供的名單\n資料狀態：官方資
+ 料已核對\n截止日期：2026-12-15；未公告確切時間，全天
+ 顯示不代表可等到台灣午夜。\n來源：https://www.sg-bcc.org/\
+ n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Vienna\, Austria
+CATEGORIES:Breast,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sg-bcc.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:dc617b938436a75bedd5ece381e59c81@gs-conference-calendar
+DTSTAMP:20260914T083757Z
+CREATED:20260914T083757Z
+LAST-MODIFIED:20260914T083757Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:WCTC 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Endocrine Surgery\n會議：WCTC 2027\n地點：Paris\
+ , France\n院內補助：未列於提供的名單\n資料狀態：官方
+ 資料已核對\n截止日期：2027-02-26；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：https://thyroidworldc
+ ongress.com/abstracts/\n日期核對紀錄：2026-09-14\n備註：Biennial
+LOCATION:Paris\, France
+CATEGORIES:Endocrine Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thyroidworldcongress.com/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a68851b7ae8131724ae08f8faa9360e@gs-conference-calendar
+DTSTAMP:20260914T083757Z
+CREATED:20260914T083757Z
+LAST-MODIFIED:20260914T083757Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:WCTC 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Endocrine Surgery\n會議：WCTC 2027\n地點：Paris\
+ , France\n院內補助：未列於提供的名單\n資料狀態：官方
+ 資料已核對\n截止日期：2027-02-26；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：https://thyroidworldc
+ ongress.com/abstracts/\n日期核對紀錄：2026-09-14\n備註：Biennial
+LOCATION:Paris\, France
+CATEGORIES:Endocrine Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thyroidworldcongress.com/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab812700dd762eb1280f87db33be1c4@gs-conference-calendar
+DTSTAMP:20260914T083757Z
+CREATED:20260914T083757Z
+LAST-MODIFIED:20260914T083757Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:WCTC 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Endocrine Surgery\n會議：WCTC 2027\n地點：Paris\
+ , France\n院內補助：未列於提供的名單\n資料狀態：官方
+ 資料已核對\n截止日期：2027-02-26；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：https://thyroidworldc
+ ongress.com/abstracts/\n日期核對紀錄：2026-09-14\n備註：Biennial
+LOCATION:Paris\, France
+CATEGORIES:Endocrine Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thyroidworldcongress.com/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:aff57433acd87583aeaa40415ac1fff8@gs-conference-calendar
+DTSTAMP:20260914T083757Z
+CREATED:20260914T083757Z
+LAST-MODIFIED:20260914T083757Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:WCTC 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Endocrine Surgery\n會議：WCTC 2027\n地點：Paris\
+ , France\n院內補助：未列於提供的名單\n資料狀態：官方
+ 資料已核對\n截止日期：2027-02-26；未公告確切時間，全
+ 天顯示不代表可等到台灣午夜。\n來源：https://thyroidworldc
+ ongress.com/abstracts/\n日期核對紀錄：2026-09-14\n備註：Biennial
+LOCATION:Paris\, France
+CATEGORIES:Endocrine Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://thyroidworldcongress.com/abstracts/
+END:VEVENT
+END:VCALENDAR

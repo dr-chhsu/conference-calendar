@@ -1,0 +1,517 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GS Academic Conferences//ZH-TW
+CALSCALE:GREGORIAN
+X-WR-CALNAME:院內補助｜投稿準備提醒
+X-WR-TIMEZONE:Asia/Taipei
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:9f07bd38a0145473f00f8cca1d9501c1@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:【院內補助】A-PHPBA 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：HPB\n會議：A-PHPBA 2027\n地點：Busan\, South Kor
+ ea\n院內補助：列於一般外科補助名單（簡報第12頁；適
+ 用年度及申請條件未載明）\n資料狀態：官方資料已核對
+ \n截止日期：2027-04-11；未公告確切時間，全天顯示不代
+ 表可等到台灣午夜。\n來源：https://aphpba2027.com/\n日期核
+ 對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Busan\, South Korea
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphpba2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:6b17260b1bde5050adde9af059617ab7@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:【院內補助】A-PHPBA 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：HPB\n會議：A-PHPBA 2027\n地點：Busan\, South Kor
+ ea\n院內補助：列於一般外科補助名單（簡報第12頁；適
+ 用年度及申請條件未載明）\n資料狀態：官方資料已核對
+ \n截止日期：2027-04-11；未公告確切時間，全天顯示不代
+ 表可等到台灣午夜。\n來源：https://aphpba2027.com/\n日期核
+ 對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Busan\, South Korea
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphpba2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:fef4a4414ca7834b30370e9a8bb9c948@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:【院內補助】A-PHPBA 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：HPB\n會議：A-PHPBA 2027\n地點：Busan\, South Kor
+ ea\n院內補助：列於一般外科補助名單（簡報第12頁；適
+ 用年度及申請條件未載明）\n資料狀態：官方資料已核對
+ \n截止日期：2027-04-11；未公告確切時間，全天顯示不代
+ 表可等到台灣午夜。\n來源：https://aphpba2027.com/\n日期核
+ 對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Busan\, South Korea
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphpba2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:19e50b00353a48bf7e037cdeb87d2ca2@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:【院內補助】A-PHPBA 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：HPB\n會議：A-PHPBA 2027\n地點：Busan\, South Kor
+ ea\n院內補助：列於一般外科補助名單（簡報第12頁；適
+ 用年度及申請條件未載明）\n資料狀態：官方資料已核對
+ \n截止日期：2027-04-11；未公告確切時間，全天顯示不代
+ 表可等到台灣午夜。\n來源：https://aphpba2027.com/\n日期核
+ 對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Busan\, South Korea
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphpba2027.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:a1781ff8e23decb0955269b0ef0938a2@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20261005T035900Z
+DTEND:20261005T040000Z
+SUMMARY:【院內補助】AHPBA 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：HPB\n會議：AHPBA 2027\n地點：Miami\n院內補助
+ ：列於一般外科補助名單（簡報第12頁；適用年度及申請
+ 條件未載明）\n資料狀態：官方資料已核對\n官方截止：2
+ 026-10-05 23:59 (America/New_York)\n台灣時間：2026-10-06 11:59\n來
+ 源：https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATW
+ JIGK\n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Miami
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIG
+ K
+END:VEVENT
+BEGIN:VEVENT
+UID:7687e04502465d4be4c842da53852ee4@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260922T035900Z
+DTEND:20260922T040000Z
+SUMMARY:【院內補助】AHPBA 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：HPB\n會議：AHPBA 2027\n地點：Miami\n院內補助
+ ：列於一般外科補助名單（簡報第12頁；適用年度及申請
+ 條件未載明）\n資料狀態：官方資料已核對\n官方截止：2
+ 026-10-05 23:59 (America/New_York)\n台灣時間：2026-10-06 11:59\n來
+ 源：https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATW
+ JIGK\n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Miami
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIG
+ K
+END:VEVENT
+BEGIN:VEVENT
+UID:371e375f12ee38deb8e4e29a00418a75@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260906T035900Z
+DTEND:20260906T040000Z
+SUMMARY:【院內補助】AHPBA 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：HPB\n會議：AHPBA 2027\n地點：Miami\n院內補助
+ ：列於一般外科補助名單（簡報第12頁；適用年度及申請
+ 條件未載明）\n資料狀態：官方資料已核對\n官方截止：2
+ 026-10-05 23:59 (America/New_York)\n台灣時間：2026-10-06 11:59\n來
+ 源：https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATW
+ JIGK\n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Miami
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIG
+ K
+END:VEVENT
+BEGIN:VEVENT
+UID:642b49a615162f467b76ba04943b1c06@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260929T035900Z
+DTEND:20260929T040000Z
+SUMMARY:【院內補助】AHPBA 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：HPB\n會議：AHPBA 2027\n地點：Miami\n院內補助
+ ：列於一般外科補助名單（簡報第12頁；適用年度及申請
+ 條件未載明）\n資料狀態：官方資料已核對\n官方截止：2
+ 026-10-05 23:59 (America/New_York)\n台灣時間：2026-10-06 11:59\n來
+ 源：https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATW
+ JIGK\n日期核對紀錄：2026-09-13\n備註：Biennial
+LOCATION:Miami
+CATEGORIES:HPB,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIG
+ K
+END:VEVENT
+BEGIN:VEVENT
+UID:5a679f5fb654794e2ec10ad9c82cd697@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:【院內補助】APHS 2026｜電子海報投稿截止前 1 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-09-20；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:10c8c7acb0c72b62b9a81bac4eb5c77d@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:【院內補助】APHS 2026｜電子海報投稿截止前 14 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-09-20；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:b20f0bd41885e5114dc9439c1b4d7183@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:【院內補助】APHS 2026｜電子海報投稿截止前 30 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-09-20；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c62e5fc13815f7881aee3e5e815771@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:【院內補助】APHS 2026｜電子海報投稿截止前 7 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-09-20；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6f8413e13d1ffb7e43ae0674220df006@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:【院內補助】APHS 2026｜口頭報告投稿截止前 1 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-08-31；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:001f3ad4b882457248f25ce1ef1146d6@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:【院內補助】APHS 2026｜口頭報告投稿截止前 14 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-08-31；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd978e429851055f1f77a719769bd9f@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:【院內補助】APHS 2026｜口頭報告投稿截止前 30 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-08-31；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:d757bbadbdd9955337ff6af60144ee39@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:【院內補助】APHS 2026｜口頭報告投稿截止前 7 天
+DESCRIPTION:領域：Hernia\n會議：APHS 2026\n地點：Osaka\, Japan\n
+ 院內補助：列於一般外科補助名單（簡報第12頁；適用年
+ 度及申請條件未載明）\n資料狀態：官方資料已核對\n截
+ 止日期：2026-08-31；未公告確切時間，全天顯示不代表可
+ 等到台灣午夜。\n公告時區：Asia/Tokyo\n來源：https://aphs202
+ 6.jp/ap/call-for-papers.html\n日期核對紀錄：2026-09-13
+LOCATION:Osaka\, Japan
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://aphs2026.jp/ap/call-for-papers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:c424fef6dae90e956720959ed8fd863d@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:【院內補助】EHS 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Hernia\n會議：EHS 2027\n地點：Antwerp\, Belgium\
+ n院內補助：列於一般外科補助名單（簡報第12頁；適用
+ 年度及申請條件未載明）\n資料狀態：官方資料已核對\n
+ 截止日期：2027-02-01；未公告確切時間，全天顯示不代表
+ 可等到台灣午夜。\n來源：https://europeanherniasociety.eu/ehs202
+ 7/\n日期核對紀錄：2026-09-13
+LOCATION:Antwerp\, Belgium
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://europeanherniasociety.eu/ehs2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:cec444d9a0ea466e03dfba5d4dcb92c0@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:【院內補助】EHS 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Hernia\n會議：EHS 2027\n地點：Antwerp\, Belgium\
+ n院內補助：列於一般外科補助名單（簡報第12頁；適用
+ 年度及申請條件未載明）\n資料狀態：官方資料已核對\n
+ 截止日期：2027-02-01；未公告確切時間，全天顯示不代表
+ 可等到台灣午夜。\n來源：https://europeanherniasociety.eu/ehs202
+ 7/\n日期核對紀錄：2026-09-13
+LOCATION:Antwerp\, Belgium
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://europeanherniasociety.eu/ehs2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e621dac4b3db738c280d30f4146a50@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:【院內補助】EHS 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Hernia\n會議：EHS 2027\n地點：Antwerp\, Belgium\
+ n院內補助：列於一般外科補助名單（簡報第12頁；適用
+ 年度及申請條件未載明）\n資料狀態：官方資料已核對\n
+ 截止日期：2027-02-01；未公告確切時間，全天顯示不代表
+ 可等到台灣午夜。\n來源：https://europeanherniasociety.eu/ehs202
+ 7/\n日期核對紀錄：2026-09-13
+LOCATION:Antwerp\, Belgium
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://europeanherniasociety.eu/ehs2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:87f2f50ee43010c041f4a51460d572e6@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:【院內補助】EHS 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Hernia\n會議：EHS 2027\n地點：Antwerp\, Belgium\
+ n院內補助：列於一般外科補助名單（簡報第12頁；適用
+ 年度及申請條件未載明）\n資料狀態：官方資料已核對\n
+ 截止日期：2027-02-01；未公告確切時間，全天顯示不代表
+ 可等到台灣午夜。\n來源：https://europeanherniasociety.eu/ehs202
+ 7/\n日期核對紀錄：2026-09-13
+LOCATION:Antwerp\, Belgium
+CATEGORIES:Hernia,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://europeanherniasociety.eu/ehs2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:adf84c61d28cb3aff6a61745f90ab036@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260911T065900Z
+DTEND:20260911T070000Z
+SUMMARY:【院內補助】SAGES 2027｜摘要投稿截止前 1 天
+DESCRIPTION:領域：Endoscopic Surgery\n會議：SAGES 2027\n地點：Las 
+ Vegas\, Nevada\n院內補助：列於一般外科補助名單（簡報第1
+ 2頁；適用年度及申請條件未載明）\n資料狀態：官方資
+ 料已核對\n官方截止：2026-09-11 23:59 (America/Los_Angeles)\n台
+ 灣時間：2026-09-12 14:59\n來源：https://www.sages.org/meetings/abst
+ racts/\n日期核對紀錄：2026-09-13
+LOCATION:Las Vegas\, Nevada
+CATEGORIES:Endoscopic Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sages.org/meetings/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:48c36adb02010533cab3d7ee47bc3377@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260829T065900Z
+DTEND:20260829T070000Z
+SUMMARY:【院內補助】SAGES 2027｜摘要投稿截止前 14 天
+DESCRIPTION:領域：Endoscopic Surgery\n會議：SAGES 2027\n地點：Las 
+ Vegas\, Nevada\n院內補助：列於一般外科補助名單（簡報第1
+ 2頁；適用年度及申請條件未載明）\n資料狀態：官方資
+ 料已核對\n官方截止：2026-09-11 23:59 (America/Los_Angeles)\n台
+ 灣時間：2026-09-12 14:59\n來源：https://www.sages.org/meetings/abst
+ racts/\n日期核對紀錄：2026-09-13
+LOCATION:Las Vegas\, Nevada
+CATEGORIES:Endoscopic Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sages.org/meetings/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:cf7d47414153aa14dd8daa586b242940@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260813T065900Z
+DTEND:20260813T070000Z
+SUMMARY:【院內補助】SAGES 2027｜摘要投稿截止前 30 天
+DESCRIPTION:領域：Endoscopic Surgery\n會議：SAGES 2027\n地點：Las 
+ Vegas\, Nevada\n院內補助：列於一般外科補助名單（簡報第1
+ 2頁；適用年度及申請條件未載明）\n資料狀態：官方資
+ 料已核對\n官方截止：2026-09-11 23:59 (America/Los_Angeles)\n台
+ 灣時間：2026-09-12 14:59\n來源：https://www.sages.org/meetings/abst
+ racts/\n日期核對紀錄：2026-09-13
+LOCATION:Las Vegas\, Nevada
+CATEGORIES:Endoscopic Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sages.org/meetings/abstracts/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a5e8f8a7b83c84628b3c834e1676cde@gs-conference-calendar
+DTSTAMP:20260913T043939Z
+CREATED:20260913T035819Z
+LAST-MODIFIED:20260913T043939Z
+SEQUENCE:1
+DTSTART:20260905T065900Z
+DTEND:20260905T070000Z
+SUMMARY:【院內補助】SAGES 2027｜摘要投稿截止前 7 天
+DESCRIPTION:領域：Endoscopic Surgery\n會議：SAGES 2027\n地點：Las 
+ Vegas\, Nevada\n院內補助：列於一般外科補助名單（簡報第1
+ 2頁；適用年度及申請條件未載明）\n資料狀態：官方資
+ 料已核對\n官方截止：2026-09-11 23:59 (America/Los_Angeles)\n台
+ 灣時間：2026-09-12 14:59\n來源：https://www.sages.org/meetings/abst
+ racts/\n日期核對紀錄：2026-09-13
+LOCATION:Las Vegas\, Nevada
+CATEGORIES:Endoscopic Surgery,reminder
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.sages.org/meetings/abstracts/
+END:VEVENT
+END:VCALENDAR

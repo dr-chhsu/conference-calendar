@@ -1,0 +1,9 @@
+cache/
+__pycache__/
+.update.lock
+*.tmp
+image*.png
+*.pptx
+*.zip
+preview.png
+data/automation-active.json

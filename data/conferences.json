@@ -1,0 +1,1524 @@
+[
+  {
+    "id": "ata-2026",
+    "series": "ATA",
+    "year": 2026,
+    "category": "Endocrine Surgery",
+    "start": "2026-11-04",
+    "end": "2026-11-07",
+    "location": "Philadelphia, PA",
+    "deadline_note": "close",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 2,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://thyroid.joynmeeting.com/conference/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://thyroid.joynmeeting.com/conference/",
+      "https://www.thyroid.org/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "ata-2027",
+    "series": "ATA",
+    "year": 2027,
+    "category": "Endocrine Surgery",
+    "start": "2027-11-10",
+    "end": "2027-11-13",
+    "location": "TBD",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 2,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://thyroid.joynmeeting.com/conference/",
+      "https://www.thyroid.org/"
+    ]
+  },
+  {
+    "id": "eta-2027",
+    "series": "ETA",
+    "year": 2027,
+    "category": "Endocrine Surgery",
+    "start": "2027-09-11",
+    "end": "2027-09-14",
+    "location": "Essen, Germany",
+    "deadline_note": "2027/3",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 2,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.eurothyroid.com/events/48th-annual-meeting-of-the-european-thyroid-association.html"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.eurothyroid.com/events/48th-annual-meeting-of-the-european-thyroid-association.html"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "iaes-2026",
+    "series": "IAES",
+    "year": 2026,
+    "category": "Endocrine Surgery",
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "location": "Sydney, Australia",
+    "deadline_note": "close",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 2,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://2026.iaesurgeons.org/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://2026.iaesurgeons.org/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "aaes-2027",
+    "series": "AAES",
+    "year": 2027,
+    "category": "Endocrine Surgery",
+    "start": "2027-05-22",
+    "end": "2027-05-24",
+    "location": "Sacramento, CA",
+    "deadline_note": "2026/11/1",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 2,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://aaes.memberclicks.net/2027-annual-meeting-home"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-11-01",
+        "time": null,
+        "timezone": null,
+        "status": "official",
+        "sources": [
+          "https://aaes.memberclicks.net/2027-annual-meeting-home"
+        ],
+        "verified_at": "2026-09-13"
+      }
+    ],
+    "monitor_urls": [
+      "https://aaes.memberclicks.net/2027-annual-meeting-home"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "aaes-2028",
+    "series": "AAES",
+    "year": 2028,
+    "category": "Endocrine Surgery",
+    "start": "2028-05-20",
+    "end": "2028-05-22",
+    "location": "Salt Lake City, Utah",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 2,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://aaes.memberclicks.net/2027-annual-meeting-home"
+    ]
+  },
+  {
+    "id": "wctc-2027",
+    "series": "WCTC",
+    "year": 2027,
+    "category": "Endocrine Surgery",
+    "start": "2027-06-23",
+    "end": "2027-06-26",
+    "location": "Paris, France",
+    "deadline_note": "官網已公告 2027-02-26；取代簡報預估 2027/1。",
+    "notes": "Biennial",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 2,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://thyroidworldcongress.com/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2027-02-26",
+        "time": null,
+        "timezone": null,
+        "status": "official",
+        "verified_at": "2026-09-14",
+        "sources": [
+          "https://thyroidworldcongress.com/abstracts/"
+        ]
+      }
+    ],
+    "monitor_urls": [
+      "https://thyroidworldcongress.com/",
+      "https://thyroidworldcongress.com/abstracts/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "sabcs-2026",
+    "series": "SABCS",
+    "year": 2026,
+    "category": "Breast",
+    "start": "2026-12-08",
+    "end": "2026-12-11",
+    "location": "San Antonio, TX",
+    "deadline_note": "close",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 3,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://sabcs.org/media/future-symposia/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://sabcs.org/media/future-symposia/",
+      "https://sabcs.org/abstracts/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "sabcs-2027",
+    "series": "SABCS",
+    "year": 2027,
+    "category": "Breast",
+    "start": "2027-12-07",
+    "end": "2027-12-10",
+    "location": "San Antonio, TX",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 3,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://sabcs.org/media/future-symposia/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://sabcs.org/media/future-symposia/",
+      "https://sabcs.org/abstracts/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "st-gallen-2027",
+    "series": "St. Gallen",
+    "year": 2027,
+    "category": "Breast",
+    "start": "2027-03-17",
+    "end": "2027-03-20",
+    "location": "Vienna, Austria",
+    "deadline_note": "2026/12/15",
+    "notes": "Biennial",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 3,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.sg-bcc.org/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-12-15",
+        "time": null,
+        "timezone": null,
+        "status": "official",
+        "sources": [
+          "https://www.sg-bcc.org/"
+        ],
+        "verified_at": "2026-09-13"
+      }
+    ],
+    "monitor_urls": [
+      "https://www.sg-bcc.org/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "esmo-breast-2027",
+    "series": "ESMO (breast)",
+    "year": 2027,
+    "category": "Breast",
+    "start": "2027-05-12",
+    "end": "2027-05-14",
+    "location": "Milan, Italy",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 3,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.esmo.org/meeting-calendar/esmo-breast-cancer-2027"
+    ]
+  },
+  {
+    "id": "gbcc-2027",
+    "series": "GBCC",
+    "year": 2027,
+    "category": "Breast",
+    "start": "2027-04-22",
+    "end": "2027-04-24",
+    "location": "Seoul, South Korea",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 3,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.gbcc.kr/main.asp"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.gbcc.kr/main.asp",
+      "https://www.gbcc.kr/Contents.asp?LoadPage=SubmissionGuideline_2027"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "asco-gi-2027",
+    "series": "ASCO GI",
+    "year": 2027,
+    "category": "Gastric Surgery",
+    "start": "2027-01-21",
+    "end": "2027-01-23",
+    "location": "San Francisco, CA",
+    "deadline_note": "2026/9/22",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 4,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.asco.org/gi"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-09-22",
+        "time": "23:59",
+        "timezone": "America/New_York",
+        "status": "official",
+        "sources": [
+          "https://www.asco.org/gi/abstracts-presentations/submission-details/requirements"
+        ],
+        "verified_at": "2026-09-13"
+      },
+      {
+        "id": "late-breaking",
+        "label": "Late-breaking 投稿截止（需符合資格）",
+        "date": "2026-10-22",
+        "time": "12:00",
+        "timezone": "America/New_York",
+        "status": "official",
+        "verified_at": "2026-09-13",
+        "sources": [
+          "https://www.asco.org/gi/abstracts-presentations/submission-details/requirements"
+        ]
+      }
+    ],
+    "monitor_urls": [
+      "https://www.asco.org/gi",
+      "https://www.asco.org/gi/abstracts-presentations/submission-details/requirements"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "esmo-gi-2027",
+    "series": "ESMO GI",
+    "year": 2027,
+    "category": "Gastric Surgery",
+    "start": "2027-06-30",
+    "end": "2027-07-03",
+    "location": "Barcelona, Spain",
+    "deadline_note": "2027/4",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 4,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.esmo.org/meeting-calendar/esmo-gastrointestinal-cancers-congress-2027"
+    ]
+  },
+  {
+    "id": "igcc-2027",
+    "series": "IGCC",
+    "year": 2027,
+    "category": "Gastric Surgery",
+    "start": "2027-04-14",
+    "end": "2027-04-17",
+    "location": "Santiago, Chile",
+    "deadline_note": "2026/10/30",
+    "notes": "Biennial",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 4,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://igcc2027.com/igcc2027"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-10-30",
+        "time": null,
+        "timezone": null,
+        "status": "slide_only",
+        "sources": []
+      }
+    ],
+    "monitor_urls": [
+      "https://igcc2027.com/igcc2027",
+      "https://www.igca.info/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "igcc-2029",
+    "series": "IGCC",
+    "year": 2029,
+    "category": "Gastric Surgery",
+    "start": "2029-06-27",
+    "end": "2029-06-30",
+    "location": "Seoul, South Korea",
+    "deadline_note": "TBD",
+    "notes": "Biennial",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 4,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://igcc2027.com/igcc2027",
+      "https://www.igca.info/"
+    ]
+  },
+  {
+    "id": "jgca-2027",
+    "series": "JGCA",
+    "year": 2027,
+    "category": "Gastric Surgery",
+    "start": "2027-03-25",
+    "end": "2027-03-27",
+    "location": "Yonago, JP",
+    "deadline_note": "2026/10",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 4,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://kwcs.jp/99jgca/e-outl.html"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://kwcs.jp/99jgca/e-outl.html",
+      "https://www.jgca.jp/english/annualcongress/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "kingca-tbd",
+    "series": "KINGCA",
+    "year": null,
+    "category": "Gastric Surgery",
+    "start": null,
+    "end": null,
+    "location": "TBD",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 4,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.kingca.org/",
+      "https://www.igca.info/"
+    ]
+  },
+  {
+    "id": "ihpba-2028",
+    "series": "IHPBA",
+    "year": 2028,
+    "category": "HPB",
+    "start": "2028-04-05",
+    "end": "2028-04-08",
+    "location": "Vancouver, Canada",
+    "deadline_note": "TBD",
+    "notes": "Biennial",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 5,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.ihpba.org/19_World-Congress.html"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.ihpba.org/19_World-Congress.html"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "ahpba-2027",
+    "series": "AHPBA",
+    "year": 2027,
+    "category": "HPB",
+    "start": "2027-03-11",
+    "end": "2027-03-14",
+    "location": "Miami",
+    "deadline_note": "2026/10/5",
+    "notes": "Biennial",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 5,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.ahpba.org/future-meetings/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-10-05",
+        "time": "23:59",
+        "timezone": "America/New_York",
+        "status": "official",
+        "sources": [
+          "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK"
+        ],
+        "verified_at": "2026-09-13"
+      }
+    ],
+    "monitor_urls": [
+      "https://www.ahpba.org/future-meetings/",
+      "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "e-ahpba-2027",
+    "series": "E-AHPBA",
+    "year": 2027,
+    "category": "HPB",
+    "start": "2027-06-02",
+    "end": "2027-06-04",
+    "location": "Hamburg, Germany",
+    "deadline_note": "2027/1",
+    "notes": "Biennial",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 5,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://eahpba.org/education-and-training/congress/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://eahpba.org/education-and-training/congress/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "a-phpba-2027",
+    "series": "A-PHPBA",
+    "year": 2027,
+    "category": "HPB",
+    "start": "2027-09-22",
+    "end": "2027-09-25",
+    "location": "Busan, South Korea",
+    "deadline_note": "2027/4/11",
+    "notes": "Biennial",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 5,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://aphpba2027.com/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2027-04-11",
+        "time": null,
+        "timezone": null,
+        "status": "official",
+        "sources": [
+          "https://aphpba2027.com/"
+        ],
+        "verified_at": "2026-09-13"
+      }
+    ],
+    "monitor_urls": [
+      "https://aphpba2027.com/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "ills-2027",
+    "series": "ILLS",
+    "year": 2027,
+    "category": "HPB",
+    "start": "2027-09-15",
+    "end": "2027-09-17",
+    "location": "Buenos Aires, Argentina",
+    "deadline_note": "TBD",
+    "notes": "Biennial",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 5,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.ills2027.com/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.ills2027.com/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "wchs-tbd",
+    "series": "WCHS",
+    "year": null,
+    "category": "Hernia",
+    "start": null,
+    "end": null,
+    "location": "TBD",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 6,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://europeanherniasociety.eu/"
+    ]
+  },
+  {
+    "id": "ehs-2027",
+    "series": "EHS",
+    "year": 2027,
+    "category": "Hernia",
+    "start": "2027-06-02",
+    "end": "2027-06-04",
+    "location": "Antwerp, Belgium",
+    "deadline_note": "2027/2/1",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 6,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://europeanherniasociety.eu/ehs2027/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2027-02-01",
+        "time": null,
+        "timezone": null,
+        "status": "official",
+        "sources": [
+          "https://europeanherniasociety.eu/ehs2027/"
+        ],
+        "verified_at": "2026-09-13"
+      }
+    ],
+    "monitor_urls": [
+      "https://europeanherniasociety.eu/ehs2027/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "ehs-2028",
+    "series": "EHS",
+    "year": 2028,
+    "category": "Hernia",
+    "start": "2028-06-21",
+    "end": "2028-06-23",
+    "location": "Basel, Switzerland",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 6,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://europeanherniasociety.eu/ehs2027/"
+    ]
+  },
+  {
+    "id": "ahs-2027",
+    "series": "AHS",
+    "year": 2027,
+    "category": "Hernia",
+    "start": "2027-09-09",
+    "end": "2027-09-11",
+    "location": "Seattle, WA",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 6,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.americanherniasociety.org/meetings"
+    ]
+  },
+  {
+    "id": "aphs-2026",
+    "series": "APHS",
+    "year": 2026,
+    "category": "Hernia",
+    "start": "2026-11-06",
+    "end": "2026-11-07",
+    "location": "Osaka, Japan",
+    "deadline_note": "8/31 (oral)9/20 (e-poster)",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 6,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [
+      {
+        "id": "oral",
+        "label": "口頭報告投稿截止",
+        "date": "2026-08-31",
+        "time": null,
+        "timezone": "Asia/Tokyo",
+        "status": "official",
+        "sources": [
+          "https://aphs2026.jp/ap/call-for-papers.html"
+        ],
+        "verified_at": "2026-09-13"
+      },
+      {
+        "id": "eposter",
+        "label": "電子海報投稿截止",
+        "date": "2026-09-20",
+        "time": null,
+        "timezone": "Asia/Tokyo",
+        "status": "official",
+        "sources": [
+          "https://aphs2026.jp/ap/call-for-papers.html"
+        ],
+        "verified_at": "2026-09-13"
+      }
+    ],
+    "monitor_urls": [
+      "https://aphs2026.jp/ap/call-for-papers.html",
+      "https://aphs2026.jp/ap/"
+    ]
+  },
+  {
+    "id": "aphs-2027",
+    "series": "APHS",
+    "year": 2027,
+    "category": "Hernia",
+    "start": "2027-09-23",
+    "end": "2027-09-25",
+    "location": "Bangkok, Thailand",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 6,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://aphs2026.jp/ap/call-for-papers.html",
+      "https://aphs2026.jp/ap/"
+    ]
+  },
+  {
+    "id": "ifso-2027",
+    "series": "IFSO",
+    "year": 2027,
+    "category": "Bariatric Surgery",
+    "start": "2027-08-24",
+    "end": "2027-08-27",
+    "location": "Paris, France",
+    "deadline_note": "2027/2",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 7,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.ifso.com/world-congress/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.ifso.com/world-congress/",
+      "https://ifso2027.org/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "ifso-2028",
+    "series": "IFSO",
+    "year": 2028,
+    "category": "Bariatric Surgery",
+    "start": "2028-09-04",
+    "end": "2028-09-07",
+    "location": "Seoul, South Korea",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 7,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.ifso.com/world-congress/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.ifso.com/world-congress/",
+      "https://ifso2027.org/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "asmbs-2027",
+    "series": "ASMBS",
+    "year": 2027,
+    "category": "Bariatric Surgery",
+    "start": "2027-06-27",
+    "end": "2027-07-01",
+    "location": "Walt Disney World, FL",
+    "deadline_note": "2027/1",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 7,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://asmbs.org/professional-development/meetings-of-interest/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://asmbs.org/professional-development/meetings-of-interest/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "asmbs-2028",
+    "series": "ASMBS",
+    "year": 2028,
+    "category": "Bariatric Surgery",
+    "start": "2028-06-04",
+    "end": "2028-06-08",
+    "location": "Las Vegas, NV",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 7,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://asmbs.org/professional-development/meetings-of-interest/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://asmbs.org/professional-development/meetings-of-interest/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "sages-2027",
+    "series": "SAGES",
+    "year": 2027,
+    "category": "Endoscopic Surgery",
+    "start": "2027-04-06",
+    "end": "2027-04-09",
+    "location": "Las Vegas, Nevada",
+    "deadline_note": "2026/9/11",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 8,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.sages.org/meetings/abstracts/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-09-11",
+        "time": "23:59",
+        "timezone": "America/Los_Angeles",
+        "status": "official",
+        "sources": [
+          "https://www.sages.org/meetings/abstracts/"
+        ],
+        "verified_at": "2026-09-13"
+      }
+    ],
+    "monitor_urls": [
+      "https://www.sages.org/meetings/abstracts/",
+      "https://www.sages2027.org/",
+      "https://www.sages.org/meetings/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "sages-2028",
+    "series": "SAGES",
+    "year": 2028,
+    "category": "Endoscopic Surgery",
+    "start": "2028-03-29",
+    "end": "2028-04-01",
+    "location": "Charlotte, North Carolina",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 8,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.sages.org/meetings/abstracts/",
+      "https://www.sages2027.org/",
+      "https://www.sages.org/meetings/"
+    ]
+  },
+  {
+    "id": "wces-2028",
+    "series": "WCES",
+    "year": 2028,
+    "category": "Endoscopic Surgery",
+    "start": "2028-06-13",
+    "end": "2028-06-16",
+    "location": "Torino, Italy",
+    "deadline_note": "TBD",
+    "notes": "conjunction with 36th EAES",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 8,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://eaes.eu/"
+    ]
+  },
+  {
+    "id": "eaes-2027",
+    "series": "EAES",
+    "year": 2027,
+    "category": "Endoscopic Surgery",
+    "start": "2027-06-15",
+    "end": "2027-06-18",
+    "location": "Düsseldorf, Germany",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 8,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.duesseldorfcongress.de/en/dusseldorf-congress-brings-international-eaes-2027-surgical-congress-to-the-state-capital/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://eaes.eu/",
+      "https://www.duesseldorfcongress.de/en/dusseldorf-congress-brings-international-eaes-2027-surgical-congress-to-the-state-capital/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "eaes-2028",
+    "series": "EAES",
+    "year": 2028,
+    "category": "Endoscopic Surgery",
+    "start": "2028-06-13",
+    "end": "2028-06-16",
+    "location": "Torino, Italy",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 8,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://eaes.eu/",
+      "https://www.duesseldorfcongress.de/en/dusseldorf-congress-brings-international-eaes-2027-surgical-congress-to-the-state-capital/"
+    ]
+  },
+  {
+    "id": "elsa-2026",
+    "series": "ELSA",
+    "year": 2026,
+    "category": "Endoscopic Surgery",
+    "start": "2026-09-17",
+    "end": "2026-09-19",
+    "location": "Hue City, Vietnam",
+    "deadline_note": "close",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 8,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://elsasociety.org/congress-2/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://elsasociety.org/congress-2/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "jses-2027",
+    "series": "JSES",
+    "year": 2027,
+    "category": "Endoscopic Surgery",
+    "start": "2027-12-09",
+    "end": "2027-12-11",
+    "location": "Nagoya, Japan",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 8,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.jses.or.jp/"
+    ]
+  },
+  {
+    "id": "jses-2028",
+    "series": "JSES",
+    "year": 2028,
+    "category": "Endoscopic Surgery",
+    "start": "2028-11-23",
+    "end": "2028-11-25",
+    "location": "Yokohama, Japan",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 8,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.jses.or.jp/"
+    ]
+  },
+  {
+    "id": "asco-2027",
+    "series": "ASCO",
+    "year": 2027,
+    "category": "Oncology",
+    "start": "2027-06-04",
+    "end": "2027-06-08",
+    "location": "Chicago, IL",
+    "deadline_note": "2027/1/26",
+    "notes": "McCormick Place",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 9,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.asco.org/meetings-education/meetings/abstract-submissions"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2027-01-26",
+        "time": "23:59",
+        "timezone": "America/New_York",
+        "status": "official",
+        "sources": [
+          "https://www.asco.org/meetings-education/meetings/abstract-submissions"
+        ],
+        "verified_at": "2026-09-13"
+      }
+    ],
+    "monitor_urls": [
+      "https://www.asco.org/meetings-education/meetings/abstract-submissions"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "asco-2028",
+    "series": "ASCO",
+    "year": 2028,
+    "category": "Oncology",
+    "start": "2028-06-02",
+    "end": "2028-06-06",
+    "location": "Chicago, IL",
+    "deadline_note": "TBD",
+    "notes": "McCormick Place",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 9,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.asco.org/meetings-education/meetings/abstract-submissions"
+    ]
+  },
+  {
+    "id": "esmo-2026",
+    "series": "ESMO",
+    "year": 2026,
+    "category": "Oncology",
+    "start": "2026-10-23",
+    "end": "2026-10-27",
+    "location": "Madrid, Spain",
+    "deadline_note": "close",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 9,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.esmo.org/meeting-calendar/esmo-congress-2026",
+      "https://www.esmo.org/meeting-calendar/esmo-congress-2027"
+    ]
+  },
+  {
+    "id": "esmo-2027",
+    "series": "ESMO",
+    "year": 2027,
+    "category": "Oncology",
+    "start": "2027-09-17",
+    "end": "2027-09-21",
+    "location": "Barcelona, Spain",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 9,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.esmo.org/meeting-calendar/esmo-congress-2026",
+      "https://www.esmo.org/meeting-calendar/esmo-congress-2027"
+    ]
+  },
+  {
+    "id": "sso-2027",
+    "series": "SSO",
+    "year": 2027,
+    "category": "Oncology",
+    "start": "2027-03-18",
+    "end": "2027-03-20",
+    "location": "Washington DC",
+    "deadline_note": "2026/10/5",
+    "notes": "USA",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 9,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://surgonc.org/events/sso-annual-meeting/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-10-05",
+        "time": null,
+        "timezone": null,
+        "status": "slide_only",
+        "sources": []
+      }
+    ],
+    "monitor_urls": [
+      "https://surgonc.org/events/sso-annual-meeting/",
+      "https://sso2027.eventscribe.net/aaStatic.asp?SFP=UUVUVVJFUlpAMjY4NzBAQWJzdHJhY3QgU3VibWlzc2lvbg"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "sso-2028",
+    "series": "SSO",
+    "year": 2028,
+    "category": "Oncology",
+    "start": "2028-03-30",
+    "end": "2028-04-01",
+    "location": "Tampa, FL",
+    "deadline_note": "TBD",
+    "notes": "USA",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 9,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://surgonc.org/events/sso-annual-meeting/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://surgonc.org/events/sso-annual-meeting/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "esso-2027",
+    "series": "ESSO",
+    "year": 2027,
+    "category": "Oncology",
+    "start": "2027-11-10",
+    "end": "2027-11-12",
+    "location": "Vienna, Austria",
+    "deadline_note": "2027/5",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 9,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.essoweb.org/"
+    ]
+  },
+  {
+    "id": "esso-2028",
+    "series": "ESSO",
+    "year": 2028,
+    "category": "Oncology",
+    "start": "2028-10-18",
+    "end": "2028-10-20",
+    "location": "Porto, Portugal",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 9,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.essoweb.org/"
+    ]
+  },
+  {
+    "id": "acs-2027",
+    "series": "ACS",
+    "year": 2027,
+    "category": "Surgery Association",
+    "start": "2027-10-16",
+    "end": "2027-10-19",
+    "location": "San Diego, CA",
+    "deadline_note": "簡報預估 2027/3；2027 官網僅公告摘要／影片／海報徵稿將於 December 開放，尚無確切截止日。",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 10,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2027/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2027/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "acs-2028",
+    "series": "ACS",
+    "year": 2028,
+    "category": "Surgery Association",
+    "start": "2028-10-21",
+    "end": "2028-10-24",
+    "location": "Boston, MA",
+    "deadline_note": "簡報預估 2027/3；2027 官網僅公告摘要／影片／海報徵稿將於 December 開放，尚無確切截止日。",
+    "notes": "",
+    "subsidized": true,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 10,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2027/"
+    ]
+  },
+  {
+    "id": "esa-2027",
+    "series": "ESA",
+    "year": 2027,
+    "category": "Surgery Association",
+    "start": "2027-05-06",
+    "end": "2027-05-08",
+    "location": "Alicante, Spain",
+    "deadline_note": "簡報：2026/10/15；官網：October 14（未明列年份）；待確認，不建立截止事件。另有 special lectures October 28。",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 10,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.europeansurgicalassociation.org/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-10-15",
+        "time": null,
+        "timezone": null,
+        "status": "conflict",
+        "sources": [
+          "https://www.europeansurgicalassociation.org/"
+        ]
+      }
+    ],
+    "monitor_urls": [
+      "https://www.europeansurgicalassociation.org/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "wcs-2028",
+    "series": "WCS",
+    "year": 2028,
+    "category": "Surgery Association",
+    "start": "2028-03-26",
+    "end": "2028-03-30",
+    "location": "Cape Town, South Africa",
+    "deadline_note": "TBD",
+    "notes": "Biennial",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 10,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.isw2028.com/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.isw2028.com/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "asc-2027",
+    "series": "ASC",
+    "year": 2027,
+    "category": "Surgery Association",
+    "start": "2027-02-09",
+    "end": "2027-02-11",
+    "location": "Washington DC",
+    "deadline_note": "官網同頁出現 August 7、August 9、August 17 三個 2026 年摘要截止日；皆已過，保留衝突紀錄，不建立確定截止事件。",
+    "notes": "USA",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 10,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.academicsurgicalcongress.org/abstract-submission-guidelines/"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-08-07",
+        "time": "23:59",
+        "timezone": "America/New_York",
+        "status": "conflict",
+        "verified_at": "2026-09-13",
+        "sources": [
+          "https://academicsurgicalcongress.us/"
+        ]
+      }
+    ],
+    "monitor_urls": [
+      "https://www.academicsurgicalcongress.org/abstract-submission-guidelines/",
+      "https://academicsurgicalcongress.us/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "asc-2028",
+    "series": "ASC",
+    "year": 2028,
+    "category": "Surgery Association",
+    "start": "2028-02-15",
+    "end": "2028-02-17",
+    "location": "Houston, TX",
+    "deadline_note": "TBD",
+    "notes": "USA",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 10,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://www.academicsurgicalcongress.org/abstract-submission-guidelines/",
+      "https://academicsurgicalcongress.us/"
+    ]
+  },
+  {
+    "id": "amee-2027",
+    "series": "AMEE",
+    "year": 2027,
+    "category": "Medical Education",
+    "start": "2027-08-28",
+    "end": "2027-09-01",
+    "location": "Helsinki, Finland",
+    "deadline_note": "TBD",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 11,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://amee.org/events/"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://amee.org/events/"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "aamc-2027",
+    "series": "AAMC",
+    "year": 2027,
+    "category": "Medical Education",
+    "start": "2027-11-12",
+    "end": "2027-11-16",
+    "location": "Washington DC",
+    "deadline_note": "2026/12/7",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 11,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://www.aamc.org/learn-network/learn-serve-lead"
+    ],
+    "deadlines": [
+      {
+        "id": "abstract",
+        "label": "摘要投稿截止",
+        "date": "2026-12-07",
+        "time": null,
+        "timezone": null,
+        "status": "slide_only",
+        "sources": []
+      }
+    ],
+    "monitor_urls": [
+      "https://www.aamc.org/learn-network/learn-serve-lead"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  },
+  {
+    "id": "ottawa-2028",
+    "series": "OTTAWA",
+    "year": 2028,
+    "category": "Medical Education",
+    "start": null,
+    "end": null,
+    "location": "TBD",
+    "deadline_note": "TBD",
+    "notes": "Biennial; Conjunction with AMEE",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 11,
+    "meeting_status": "slide_only",
+    "meeting_sources": [],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://amee.org/events/"
+    ]
+  },
+  {
+    "id": "apmec-2027",
+    "series": "APMEC",
+    "year": 2027,
+    "category": "Medical Education",
+    "start": "2027-01-13",
+    "end": "2027-01-16",
+    "location": "Kyoto, Japan",
+    "deadline_note": "close",
+    "notes": "",
+    "subsidized": false,
+    "subsidy_source": "使用者簡報第12頁，一般外科名單；未標示適用年度",
+    "slide": 11,
+    "meeting_status": "official",
+    "meeting_sources": [
+      "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html"
+    ],
+    "deadlines": [],
+    "monitor_urls": [
+      "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html",
+      "https://medicine.nus.edu.sg/cenmed/sites/apmec2027/index.html"
+    ],
+    "meeting_verified_at": "2026-09-13"
+  }
+]

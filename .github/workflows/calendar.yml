@@ -1,0 +1,48 @@
+name: Update and publish conference calendars
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: conference-calendar-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate calendar semantics
+        run: python3 -m unittest -v
+      - name: Track official sources and build feeds
+        run: |
+          printf '{"scheduler":"GitHub Actions"}\n' > data/automation-active.json
+          python3 monitor.py
+      - name: Preserve event identities and update history
+        run: |
+          git config user.name 'conference-calendar-bot'
+          git config user.email 'conference-calendar-bot@users.noreply.github.com'
+          git add data/conferences.json data/event-state.json data/monitor-state.json data/review.json public
+          if test -f data/change-log.json; then git add data/change-log.json; fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update official conference calendar sources'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+      - name: Publish subscription feeds
+        id: deployment
+        uses: actions/deploy-pages@v4
