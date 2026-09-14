@@ -1,6 +1,6 @@
 # 一般外科國際會議訂閱日曆
 
-已建立可供 Google Calendar 與 Apple 行事曆訂閱的標準 iCalendar（`.ics`）日曆、訂閱頁面與每日更新程式。**目前是本機版本，尚未部署固定 HTTPS 網址，定期排程尚未啟用。** 下載並匯入 `.ics` 只會得到當時快照；要持續同步，必須使用上線後的網址訂閱。
+已建立可供 Google Calendar 與 Apple 行事曆訂閱的標準 iCalendar（`.ics`）日曆、訂閱頁面與每日更新程式。**已上線：https://dr-chhsu.github.io/conference-calendar/ 。GitHub Actions 每天台灣 08:17 執行更新；首次部署已於 2026-09-14 驗證成功。** 下載並匯入 `.ics` 只會得到當時快照；要持續同步，必須使用上線後的網址訂閱。
 
 資料來自使用者提供的 `Schedule of international conference - GS.pptx`，原始檔案未修改。涵蓋 42 個會議系列、59 屆紀錄；實際事件數與核對狀態見 `public/status.json`。
 
@@ -21,7 +21,12 @@
 
 ## 訂閱方式
 
-上線後的網址形如 `https://你的帳號.github.io/conference-calendar/all.ics`。這是格式示例，並非目前已存在的網址。
+正式訂閱網址：
+
+- 全部會議與投稿：https://dr-chhsu.github.io/conference-calendar/all.ics
+- 僅院內補助：https://dr-chhsu.github.io/conference-calendar/subsidized.ics
+- 僅投稿截止：https://dr-chhsu.github.io/conference-calendar/deadlines.ics
+- 投稿準備提醒：https://dr-chhsu.github.io/conference-calendar/reminders.ics
 
 - Google Calendar 網頁版：「其他日曆」旁＋ →「加入日曆的網址」→ 貼上 `.ics` 網址。初次加入需要電腦瀏覽器；Google 自行決定重新抓取的時間。參考 [Google 官方說明](https://support.google.com/calendar/answer/37100?hl=zh-Hant)。
 - Mac 行事曆：「檔案 → 新增行事曆訂閱」，貼上網址。選 iCloud 可同步到同帳號裝置，設定自動重新整理；要保留提醒，取消移除提示的選項。參考 [Apple 訂閱說明](https://support.apple.com/zh-tw/guide/calendar/icl1022/mac) 與 [重新整理說明](https://support.apple.com/zh-tw/guide/calendar/icl1024/mac)。
@@ -60,7 +65,7 @@ python3 monitor.py
 
 ## 部署至 GitHub Pages 與每日更新
 
-已準備 `.github/workflows/calendar.yml`。需先有可使用的 GitHub 帳號／repository；目前尚未連線或建立遠端 repository。
+已部署於 [dr-chhsu/conference-calendar](https://github.com/dr-chhsu/conference-calendar)，使用 `.github/workflows/calendar.yml`。以下為重新部署／移轉時的設定說明。
 
 1. 建立名為 `conference-calendar` 的 repository，將本目錄程式與 `data/`、`public/`、`.github/` 放到 `main`。不要上傳原始簡報、圖片、cache、其他病人或院內資料。
 2. Repository 的 Settings → Pages → Source 選 GitHub Actions。預設採公開資料庫與公開日曆，只含會議資訊與名單註記；若院內有其他公開限制，應使用合適的託管政策。
