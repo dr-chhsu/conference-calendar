@@ -1,18 +1,13 @@
 [
   {
     "type": "fetch_failed",
-    "url": "https://2026.iaesurgeons.org/",
-    "message": "Empty page or anti-bot response; last good dates retained"
-  },
-  {
-    "type": "fetch_failed",
     "url": "https://elsasociety.org/congress-2/",
     "message": "curl: (22) The requested URL returned error: 403"
   },
   {
-    "type": "fetch_failed",
+    "type": "page_changed",
     "url": "https://eaes.eu/",
-    "message": "Empty page or anti-bot response; last good dates retained"
+    "message": "官方頁面內容變更；可辨識日期會經雙次確認後套用，其餘內容需檢視。"
   },
   {
     "type": "fetch_failed",
@@ -21,37 +16,12 @@
   },
   {
     "type": "page_changed",
-    "url": "https://amee.org/events/",
+    "url": "https://ifso2027.org/",
     "message": "官方頁面內容變更；可辨識日期會經雙次確認後套用，其餘內容需檢視。"
   },
   {
     "type": "fetch_failed",
     "url": "https://sso2027.eventscribe.net/aaStatic.asp?SFP=UUVUVVJFUlpAMjY4NzBAQWJzdHJhY3QgU3VibWlzc2lvbg",
-    "message": "curl: (22) The requested URL returned error: 403"
-  },
-  {
-    "type": "fetch_failed",
-    "url": "https://thyroidworldcongress.com/abstracts/",
-    "message": "Empty page or anti-bot response; last good dates retained"
-  },
-  {
-    "type": "fetch_failed",
-    "url": "https://thyroidworldcongress.com/",
-    "message": "Empty page or anti-bot response; last good dates retained"
-  },
-  {
-    "type": "fetch_failed",
-    "url": "https://www.ahpba.org/future-meetings/",
-    "message": "Empty page or anti-bot response; last good dates retained"
-  },
-  {
-    "type": "fetch_failed",
-    "url": "https://www.asco.org/meetings-education/meetings/abstract-submissions",
-    "message": "curl: (22) The requested URL returned error: 403"
-  },
-  {
-    "type": "fetch_failed",
-    "url": "https://www.asco.org/gi/abstracts-presentations/submission-details/requirements",
     "message": "curl: (22) The requested URL returned error: 403"
   },
   {
@@ -66,8 +36,38 @@
   },
   {
     "type": "fetch_failed",
+    "url": "https://www.asco.org/gi/abstracts-presentations/submission-details/requirements",
+    "message": "curl: (22) The requested URL returned error: 403"
+  },
+  {
+    "type": "fetch_failed",
+    "url": "https://www.asco.org/meetings-education/meetings/abstract-submissions",
+    "message": "curl: (22) The requested URL returned error: 403"
+  },
+  {
+    "type": "fetch_failed",
+    "url": "https://2026.iaesurgeons.org/",
+    "message": "Empty page or anti-bot response; last good dates retained"
+  },
+  {
+    "type": "page_changed",
+    "url": "https://www.essoweb.org/",
+    "message": "官方頁面內容變更；可辨識日期會經雙次確認後套用，其餘內容需檢視。"
+  },
+  {
+    "type": "fetch_failed",
     "url": "https://www.ills2027.com/",
     "message": "Empty page or anti-bot response; last good dates retained"
+  },
+  {
+    "type": "page_changed",
+    "url": "https://www.gbcc.kr/Contents.asp?LoadPage=SubmissionGuideline_2027",
+    "message": "官方頁面內容變更；可辨識日期會經雙次確認後套用，其餘內容需檢視。"
+  },
+  {
+    "type": "page_changed",
+    "url": "https://www.gbcc.kr/main.asp",
+    "message": "官方頁面內容變更；可辨識日期會經雙次確認後套用，其餘內容需檢視。"
   },
   {
     "type": "fetch_failed",
@@ -83,6 +83,27 @@
     "type": "fetch_failed",
     "url": "https://www.sages2027.org/",
     "message": "curl: (22) The requested URL returned error: 403"
+  },
+  {
+    "type": "page_changed",
+    "url": "https://www.jses.or.jp/",
+    "message": "官方頁面內容變更；可辨識日期會經雙次確認後套用，其餘內容需檢視。"
+  },
+  {
+    "type": "page_changed",
+    "url": "https://www.thyroid.org/",
+    "message": "官方頁面內容變更；可辨識日期會經雙次確認後套用，其餘內容需檢視。"
+  },
+  {
+    "type": "fetch_failed",
+    "url": "https://www.eurothyroid.com/events/48th-annual-meeting-of-the-european-thyroid-association.html",
+    "message": "curl: (28) Connection timed out after 30002 milliseconds"
+  },
+  {
+    "type": "parser_review",
+    "record": "wctc-2027",
+    "url": "https://thyroidworldcongress.com/",
+    "message": "Expected one unambiguous date; found 0"
   },
   {
     "type": "parser_review",
@@ -113,6 +134,12 @@
     "record": "aamc-2027",
     "url": "https://www.aamc.org/learn-network/learn-serve-lead",
     "message": "Expected one unambiguous date; found 0"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://academicsurgicalcongress.us/cb/cf/access/log_in_inline_check.cfm?ref_url=academicsurgicalcongress.us/abstracts/submissions/dashboard.cfm",
+    "source": "https://academicsurgicalcongress.us/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
     "type": "discovered_link",
@@ -148,12 +175,6 @@
     "type": "discovered_link",
     "url": "https://aaes.memberclicks.net/job-posting-submission",
     "source": "https://aaes.memberclicks.net/2027-annual-meeting-home",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://academicsurgicalcongress.us/cb/cf/access/log_in_inline_check.cfm?ref_url=academicsurgicalcongress.us/abstracts/submissions/dashboard.cfm",
-    "source": "https://academicsurgicalcongress.us/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
@@ -242,98 +263,38 @@
   },
   {
     "type": "discovered_link",
+    "url": "https://eaes.eu/research-grants/call-for-research-grants/",
+    "source": "https://eaes.eu/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://eaes.eu/research-grants/call-for-research-grants",
+    "source": "https://eaes.eu/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://eaes.eu/news/call-for-fellowship/",
+    "source": "https://eaes.eu/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://eaes.eu/news/call-for-abstracts-75-discount-on-registration-fee/",
+    "source": "https://eaes.eu/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://eaes.eu/tag/abstracts/",
+    "source": "https://eaes.eu/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
     "url": "https://amee.org/events/amee-2027/",
     "source": "https://amee.org/events/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/#content",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/welcome-message/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/about-ifso/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/general-information/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/program-committee/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/mission-and-objectives/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/contact-us/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/prospectus/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/exhibition/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/important-information-for-sponsors-exhibitors/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/statistics/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/promotional-toolkit-for-supporters-and-exhibitors/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/contact-ils/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/discover-paris/",
-    "source": "https://ifso2027.org/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://ifso2027.org/promotional-toolkit/",
-    "source": "https://ifso2027.org/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
@@ -458,38 +419,122 @@
   },
   {
     "type": "discovered_link",
-    "url": "https://europeanherniasociety.eu/ehs2027/#content",
-    "source": "https://europeanherniasociety.eu/ehs2027/",
+    "url": "https://ifso2027.org/#content",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/welcome-message/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/about-ifso/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/general-information/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/program-committee/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/mission-and-objectives/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/contact-us/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/prospectus/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/exhibition/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/important-information-for-sponsors-exhibitors/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/statistics/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/promotional-toolkit-for-supporters-and-exhibitors/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/contact-ils/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/discover-paris/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/promotional-toolkit/",
+    "source": "https://ifso2027.org/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://ifso2027.org/2026-photo-gallery/",
+    "source": "https://ifso2027.org/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
     "type": "discovered_link",
     "url": "https://europeanherniasociety.eu/ehs2027/programme/",
-    "source": "https://europeanherniasociety.eu/ehs2027/",
+    "source": "https://europeanherniasociety.eu/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
     "type": "discovered_link",
     "url": "https://europeanherniasociety.eu/ehs2027/registration/",
-    "source": "https://europeanherniasociety.eu/ehs2027/",
+    "source": "https://europeanherniasociety.eu/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
     "type": "discovered_link",
     "url": "https://europeanherniasociety.eu/ehs2027/abstracts/",
-    "source": "https://europeanherniasociety.eu/ehs2027/",
+    "source": "https://europeanherniasociety.eu/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
     "type": "discovered_link",
     "url": "https://europeanherniasociety.eu/ehs2027/sponsor-exhibitor/",
-    "source": "https://europeanherniasociety.eu/ehs2027/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://europeanherniasociety.eu/ehs2027/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIxNTUyIiwidG9nZ2xlIjpmYWxzZX0%3D",
-    "source": "https://europeanherniasociety.eu/ehs2027/",
+    "source": "https://europeanherniasociety.eu/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
@@ -502,6 +547,144 @@
     "type": "discovered_link",
     "url": "https://europeanherniasociety.eu/ehs-2027-annual-international-congress/",
     "source": "https://europeanherniasociety.eu/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html#wrap",
+    "source": "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/abstracts/#content",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/late-breaking-abstracts/",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/abstracts/scholar-awards/",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/abstracts/rising-star-awards/",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://cattendee.abstractsonline.com/meeting/21392",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://live-sabcs.pantheonsite.io/abstracts/scholar-awards/",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://live-sabcs.pantheonsite.io/wp-content/uploads/2026/07/UTH_26SABCS_AbstractGuide_3.pdf",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/abstracts/#aioseo-copyright-information",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/abstracts/#aioseo-confirmation-of-no-prior-publication-presentation",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/abstracts/#aioseo-ai-guidelines",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/abstracts/#aioseo-sabcs-2025-proceedings",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://sabcs.org/abstracts/#top",
+    "source": "https://sabcs.org/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://europeanherniasociety.eu/ehs2027/#content",
+    "source": "https://europeanherniasociety.eu/ehs2027/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://europeanherniasociety.eu/ehs2027/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIxNTUyIiwidG9nZ2xlIjpmYWxzZX0%3D",
+    "source": "https://europeanherniasociety.eu/ehs2027/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://thyroid.joynmeeting.com/conference/abstract-submissions",
+    "source": "https://thyroid.joynmeeting.com/conference/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK#main_heading",
+    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.conferenceabstracts.com",
+    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.abstractscorecard.com/cfp/account/signup.asp?EventKey=SATWJIGK",
+    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.abstractscorecard.com/cfp/login/resetPwd.asp?EventKey=SATWJIGK",
+    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.abstractscorecard.com/cfp/sitemap.asp?EventKey=SATWJIGK",
+    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://thyroidworldcongress.com/wctc-2027-post-congress-normandy-tour/",
+    "source": "https://thyroidworldcongress.com/abstracts/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://na.eventscloud.com/eSites/wctc2027/Homepage",
+    "source": "https://thyroidworldcongress.com/abstracts/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
@@ -550,120 +733,6 @@
     "type": "discovered_link",
     "url": "https://surgonc.org/events/sso-annual-meeting/additional-abstract-related-award-recipients/",
     "source": "https://surgonc.org/events/sso-annual-meeting/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/late-breaking-abstracts/",
-    "source": "https://sabcs.org/media/future-symposia/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/abstracts/scholar-awards/",
-    "source": "https://sabcs.org/media/future-symposia/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/abstracts/rising-star-awards/",
-    "source": "https://sabcs.org/media/future-symposia/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://cattendee.abstractsonline.com/meeting/21392",
-    "source": "https://sabcs.org/media/future-symposia/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/abstracts/#content",
-    "source": "https://sabcs.org/abstracts/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://live-sabcs.pantheonsite.io/abstracts/scholar-awards/",
-    "source": "https://sabcs.org/abstracts/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://live-sabcs.pantheonsite.io/wp-content/uploads/2026/07/UTH_26SABCS_AbstractGuide_3.pdf",
-    "source": "https://sabcs.org/abstracts/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/abstracts/#aioseo-copyright-information",
-    "source": "https://sabcs.org/abstracts/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/abstracts/#aioseo-confirmation-of-no-prior-publication-presentation",
-    "source": "https://sabcs.org/abstracts/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/abstracts/#aioseo-ai-guidelines",
-    "source": "https://sabcs.org/abstracts/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/abstracts/#aioseo-sabcs-2025-proceedings",
-    "source": "https://sabcs.org/abstracts/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://sabcs.org/abstracts/#top",
-    "source": "https://sabcs.org/abstracts/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html#wrap",
-    "source": "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK#main_heading",
-    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.conferenceabstracts.com",
-    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.abstractscorecard.com/cfp/account/signup.asp?EventKey=SATWJIGK",
-    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.abstractscorecard.com/cfp/login/resetPwd.asp?EventKey=SATWJIGK",
-    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.abstractscorecard.com/cfp/sitemap.asp?EventKey=SATWJIGK",
-    "source": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://thyroid.joynmeeting.com/conference/abstract-submissions",
-    "source": "https://thyroid.joynmeeting.com/conference/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
@@ -742,6 +811,30 @@
     "type": "discovered_link",
     "url": "https://www.duesseldorfcongress.de/en/dusseldorf-congress-brings-international-eaes-2027-surgical-congress-to-the-state-capital/#top",
     "source": "https://www.duesseldorfcongress.de/en/dusseldorf-congress-brings-international-eaes-2027-surgical-congress-to-the-state-capital/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.ifso.com/pdf/abstract-book-ifso-2024-melbourne.pdf",
+    "source": "https://www.ifso.com/world-congress/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.ifso.com/pdf/ifso-naples-call-for-abstract-2023-new.pdf",
+    "source": "https://www.ifso.com/world-congress/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.ifso.com/pdf/abstract-book-ifso-2023-naples.pdf",
+    "source": "https://www.ifso.com/world-congress/",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
+    "url": "https://www.ifso.com/pdf/abstract-book-ifso-2022-miami.pdf",
+    "source": "https://www.ifso.com/world-congress/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
@@ -890,6 +983,12 @@
   },
   {
     "type": "discovered_link",
+    "url": "https://www.gbcc.kr/Contents.php?LoadPage=SubmissionGuideline_2027",
+    "source": "https://www.gbcc.kr/Contents.asp?LoadPage=SubmissionGuideline_2027",
+    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
+  },
+  {
+    "type": "discovered_link",
     "url": "https://www.gbcc.kr/Contents.php?LoadPage=Presentation_2027",
     "source": "https://www.gbcc.kr/Contents.asp?LoadPage=SubmissionGuideline_2027",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
@@ -956,20 +1055,8 @@
   },
   {
     "type": "discovered_link",
-    "url": "https://www.gbcc.kr/Contents.php?LoadPage=SubmissionGuideline_2027",
-    "source": "https://www.gbcc.kr/Contents.asp?LoadPage=SubmissionGuideline_2027",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
     "url": "https://isoukai2027.jp/",
     "source": "https://www.jses.or.jp/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.thyroid.org/professionals/ata-publications/ata-meeting-abstracts-published-in-thyroid/",
-    "source": "https://www.thyroid.org/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
@@ -986,26 +1073,8 @@
   },
   {
     "type": "discovered_link",
-    "url": "https://www.ifso.com/pdf/abstract-book-ifso-2024-melbourne.pdf",
-    "source": "https://www.ifso.com/world-congress/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.ifso.com/pdf/ifso-naples-call-for-abstract-2023-new.pdf",
-    "source": "https://www.ifso.com/world-congress/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.ifso.com/pdf/abstract-book-ifso-2023-naples.pdf",
-    "source": "https://www.ifso.com/world-congress/",
-    "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
-  },
-  {
-    "type": "discovered_link",
-    "url": "https://www.ifso.com/pdf/abstract-book-ifso-2022-miami.pdf",
-    "source": "https://www.ifso.com/world-congress/",
+    "url": "https://www.thyroid.org/professionals/ata-publications/ata-meeting-abstracts-published-in-thyroid/",
+    "source": "https://www.thyroid.org/",
     "message": "新投稿頁或後續年度連結，需確認會議身分後加入追蹤。"
   },
   {
