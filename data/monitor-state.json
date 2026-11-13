@@ -1,177 +1,177 @@
 {
   "pages": {
     "https://academicsurgicalcongress.us/": {
-      "hash": "a3fcfa48b09d827c10e156d04f68a95556e57ef20e93cd1f3e33a4e51e452732",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "231db3ab9d5ea06c885dc4db31106c2093a4026b2440b7d1ec9a67e8bd2cd98c",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
-      "changed": false,
+      "changed": true,
       "final_url": "https://academicsurgicalcongress.us/"
     },
     "https://aaes.memberclicks.net/2027-annual-meeting-home": {
       "hash": "f69d11f1065fbaa909f48d79cce03ccf42a6d6272015c142e9fb3758d2349039",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://aaes.memberclicks.net/2027-annual-meeting-home"
     },
     "https://2026.iaesurgeons.org/": {
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "Empty page or anti-bot response; last good dates retained"
     },
     "https://aphpba2027.com/": {
       "hash": "9dea94612de0af02ae9cd8b2b6b731588bc725c0b270512c5af939d0323ffafe",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://aphpba2027.com/"
     },
     "https://amee.org/events/": {
       "hash": "8018ea11fbbb1dfb00979fe79e6c51784a76ae5abccee205d54a8eb4445b839a",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
-      "changed": true,
+      "changed": false,
       "final_url": "https://amee.org/events/"
     },
     "https://aphs2026.jp/ap/": {
       "hash": "c50c0a6f0bf79842b5f982a917f83eaf7752a7fd00be6029891d72566f2cd74b",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://aphs2026.jp/ap/"
     },
     "https://asmbs.org/professional-development/meetings-of-interest/": {
       "hash": "63f8ad510a1a281a57d1fa73f80e2bed26c5a2c125a9e4309c6ba8dd9909e5b9",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://asmbs.org/professional-development/meetings-of-interest/"
     },
     "https://aphs2026.jp/ap/call-for-papers.html": {
       "hash": "b29e409b5964369b13c511ee1775e7e51e7e2a1e158dcd49cc72707a98cee6d3",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://aphs2026.jp/ap/call-for-papers.html"
     },
     "https://eaes.eu/": {
-      "hash": "cea1ca626405b510087789b1a6492bc0ab921fcb225dfd09f6a4b689ad16d9d3",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "4d99e14c37eaafe24b907a4fad19435c7d572b6d86b4c22cda63e414e17f10b6",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": true,
       "final_url": "https://eaes.eu/"
     },
     "https://eahpba.org/education-and-training/congress/": {
       "hash": "707665f02e0cbe14f06b2761a8aa5327d6359a092bc8f0d0ac2958759a769222",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://eahpba.org/education-and-training/congress/"
     },
     "https://elsasociety.org/congress-2/": {
       "hash": "ff57292ca2bfa1d8ffcf36d5c4850809c9267de6079d5421e47d8e4f5015f000",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://elsasociety.org/congress-2/"
     },
     "https://europeanherniasociety.eu/": {
-      "hash": "f7d650919a541c30baff111c86a883752189efd396976e7a4ccf308896fa2e5f",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "19cd8fe60cfa95e1ff34a421eeb599261f49185d5266775e65f6937e093d9f20",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
-      "changed": false,
+      "changed": true,
       "final_url": "https://europeanherniasociety.eu/"
     },
     "https://europeanherniasociety.eu/ehs2027/": {
-      "hash": "d74234f699fd002fe703092b598e5422bd064bcf1aa8f34570386c7b4191eb74",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "31d31489cfbfdd1fceb64e0956eeed887a58d06b9f211970b8337d803017081e",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
-      "changed": false,
+      "changed": true,
       "final_url": "https://europeanherniasociety.eu/ehs2027/"
     },
     "https://ifso2027.org/": {
       "hash": "93f6018a7496acb1b648872be93966b0dc53f10ebdbee6b33f657c2820cdd4bd",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://ifso2027.org/"
     },
     "https://igcc2027.com/igcc2027": {
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "curl: (22) The requested URL returned error: 403"
     },
     "https://kwcs.jp/99jgca/e-outl.html": {
       "hash": "85d5b68a738cf79c1420a607f446df2583417f870e614455c2840a4f665a17b8",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://kwcs.jp/99jgca/e-outl.html"
     },
     "https://medicine.nus.edu.sg/cenmed/sites/apmec2027/index.html": {
-      "hash": "a00c1acb06d5e64b8df2846139613b1aec2afc1cc2072a204698f04cdee8ebf9",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "2dca51aa5113b88015f2f33b0e341e638bd49ada9384411e61c3a9effb30e63f",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": true,
       "final_url": "https://medicine.nus.edu.sg/cenmed/sites/apmec2027/index.html"
     },
     "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html": {
       "hash": "a537ccbd0090680d33a558f99804991a7491dfc9edd0b4015fd41e349e8e2c47",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://plaza.umin.ac.jp/jsme/eng/activities/apmec2027.html"
     },
     "https://sabcs.org/abstracts/": {
       "hash": "f8ce7fb064386e5063f65c5ba559a48d917d9e8309bc030fa77070fa0f7c0857",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://sabcs.org/abstracts/"
     },
     "https://sabcs.org/media/future-symposia/": {
       "hash": "f49c72c5168a83be7afc3317285b0c389077c937017de02e293cb58e3c63cc15",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://sabcs.org/media/future-symposia/"
     },
     "https://surgonc.org/events/sso-annual-meeting/": {
       "hash": "2329f0d8a0988d94c8e50ac68b1d76dc0ea8e6d49a39580718c832100eaece44",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://surgonc.org/events/sso-annual-meeting/"
     },
     "https://thyroid.joynmeeting.com/conference/": {
       "hash": "fea81ac777cbf1de7c37cdc5f3331ea8156527dd34a1d606cb923dcc5e34c26a",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://thyroid.joynmeeting.com/conference/"
     },
     "https://www.aamc.org/learn-network/learn-serve-lead": {
       "hash": "90bb2d7cb82c8cfe879e33db9b1bd24e3a9982a1ed24d6007176e16d361ceab1",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.aamc.org/learn-network/learn-serve-lead"
@@ -179,107 +179,107 @@
     "https://thyroidworldcongress.com/": {
       "hash": "f030cf40e8a27c883aa5647082fb096bdd0839290fd7e0120771af1e4734d043",
       "last_success": "2026-11-11T06:30:35.281842+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)",
       "changed": true,
       "final_url": "https://thyroidworldcongress.com/"
     },
     "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK": {
       "hash": "98fe697600f57435678ccd21cabecd61b4dd72fbf9ecb083fd8091dfd70d261c",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.abstractscorecard.com/cfp/submit/login.asp?EventKey=SATWJIGK"
     },
     "https://www.academicsurgicalcongress.org/abstract-submission-guidelines/": {
       "hash": "454c88e4bb74ef7a024c22bcd414d1aacc2754f8b725ef3ef10a813517ba2ac7",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.academicsurgicalcongress.org/abstract-submission-guidelines/"
     },
     "https://www.ahpba.org/future-meetings/": {
       "hash": "50acd26142d9806d89798666e98aac9c8f16cd96e3a6a8e42cf5ca0f5d331377",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.ahpba.org/future-meetings/"
     },
     "https://www.americanherniasociety.org/meetings": {
       "hash": "60a725565693ade08d68e734f1edfed98f312f086cf04853195e57472c8444d6",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.americanherniasociety.org/meetings"
     },
     "https://www.asco.org/gi": {
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "curl: (22) The requested URL returned error: 403"
     },
     "https://www.asco.org/gi/abstracts-presentations/submission-details/requirements": {
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "curl: (22) The requested URL returned error: 403"
     },
     "https://www.asco.org/meetings-education/meetings/abstract-submissions": {
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "curl: (22) The requested URL returned error: 403"
     },
     "https://www.duesseldorfcongress.de/en/dusseldorf-congress-brings-international-eaes-2027-surgical-congress-to-the-state-capital/": {
       "hash": "047a04bc5b39341230c43e0bc14d4a9303f710e0f64d56f1a5ad2bc975f6cab9",
       "last_success": "2026-10-13T06:49:58.284416+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "curl: (22) The requested URL returned error: 404",
       "changed": false,
       "final_url": "https://www.duesseldorfcongress.de/en/dusseldorf-congress-brings-international-eaes-2027-surgical-congress-to-the-state-capital/"
     },
     "https://www.esmo.org/meeting-calendar/esmo-breast-cancer-2027": {
       "hash": "2ad8142ab61a72eacc1a66d5cb308ee0c897039dc0324243b45247c13f161010",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.esmo.org/meeting-calendar/esmo-breast-cancer-2027"
     },
     "https://www.esmo.org/meeting-calendar/esmo-congress-2027": {
       "hash": "388c63364048cc56e29b12afbd4164a00e0d68cb0bb9b7eec8bfd13c166f42d8",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.esmo.org/meeting-calendar/esmo-congress-2027"
     },
     "https://www.esmo.org/meeting-calendar/esmo-gastrointestinal-cancers-congress-2027": {
       "hash": "2ff9cd243aa235bc8dc950a1f82e400de6a5740c2cd0a2d3ca2f0edd6c90f17f",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.esmo.org/meeting-calendar/esmo-gastrointestinal-cancers-congress-2027"
     },
     "https://www.esmo.org/meeting-calendar/esmo-congress-2026": {
       "hash": "b1f7fbc678e5f654deaaea96182f2174c05194e91a859ccafb81d14cd200735e",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.esmo.org/meeting-calendar/esmo-congress-2026"
     },
     "https://www.essoweb.org/": {
-      "hash": "5adedb70fb11166e7b2dd02bd681550880f8e96c978adbd3224ba80e6274c8a4",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "dde47439afe11cbfb5edfd1ec78a24286f15f6a8af8c5ee11263606fa4de5e82",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
-      "changed": false,
+      "changed": true,
       "final_url": "https://www.essoweb.org/"
     },
     "https://www.europeansurgicalassociation.org/": {
       "hash": "bb5de7bcaa2f29b6eb4eed08d4d418a3d2eb93088ffcc0f58353cb243b1315bc",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.europeansurgicalassociation.org/"
@@ -287,154 +287,154 @@
     "https://www.eurothyroid.com/events/48th-annual-meeting-of-the-european-thyroid-association.html": {
       "hash": "9e030884c579344aa44ce64fccf93f4d95ee8a1d48dc2f845f9d3049288aaf34",
       "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
-      "error": null,
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
+      "error": "curl: (28) Connection timed out after 30002 milliseconds",
       "changed": false,
       "final_url": "https://www.eurothyroid.com/events/48th-annual-meeting-of-the-european-thyroid-association.html"
     },
     "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2027/": {
       "hash": "0f7c15fbc160c742b7eceb3cdf173dbcd7808d315287155d3810da78a763a4a9",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2027/"
     },
     "https://www.gbcc.kr/main.asp": {
       "hash": "cf45a14c78438a50dc9f254854916a306bedfc2ab38e1b922cafc190ad766ea2",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://gbcc.kr/MainGBCC"
     },
     "https://www.ifso.com/world-congress/": {
       "hash": "49620c704eb963a9b261a51fee8125be3c901594aa90a361167a0f4644796775",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.ifso.com/world-congress/"
     },
     "https://www.igca.info/": {
       "hash": "96b448cadc1c10360b61dbd9d4d2ea625d76dec98e33b90649f7a3d175df81ea",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.igca.info/"
     },
     "https://www.ihpba.org/19_World-Congress.html": {
       "hash": "f4268d5faa5253ef5007338eeeca225c61163f31ae493a9bb96e2cb68d2000d5",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.ihpba.org/19_World-Congress.html"
     },
     "https://www.ills2027.com/": {
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "Empty page or anti-bot response; last good dates retained"
     },
     "https://www.isw2028.com/": {
       "hash": "d693558d9753dddaa4c1c5cb33abee1bef88f3aa5f60d649db6534aea9cd7fb4",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.isw2028.com/"
     },
     "https://www.jgca.jp/english/annualcongress/": {
       "hash": "2ad942a66f2077d92c64395d201395ba1c92122aa159ca780d77c21398193b3e",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.jgca.jp/english/annualcongress/"
     },
     "https://www.jses.or.jp/": {
-      "hash": "e7bcdd3ecb6cc921d66f080cde5e2d4b62f6e2cb374f1eb8460651f5019d40f2",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "9a1df7159ad02a56a2d7a85ca2ea67f5859ce771ef84dad1baa008f253711a49",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": true,
       "final_url": "https://www.jses.or.jp/"
     },
     "https://www.sages.org/meetings/": {
       "hash": "c9abd961a3144755f67c07f808f119be8240e6f89bb1ee08071256f42aa9dadc",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.sages.org/meetings/"
     },
     "https://www.kingca.org/": {
       "hash": "89d44601de93cb0750b04558b83245616f593f38f488f0d26aae7e9bc4d12746",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.kingca.org/html/"
     },
     "https://www.sages.org/meetings/abstracts/": {
       "hash": "ee377066c505dafb32b13622cd6f784f7582fefe4ce7bf23d5335090a08e993c",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.sages.org/meetings/abstracts/"
     },
     "https://www.sages2027.org/": {
       "hash": "8d8765fc13d7e2b5a6403b3d7266111ba6a11cf99f950912137774d0bd4e1a55",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://www.sages2027.org/"
     },
     "https://www.sg-bcc.org/": {
-      "hash": "ae54a2e97b6ce17568caba8b939dac41c16b8e9a8b0b4e0cccd271a9962cd67f",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "f2dc5bf98ec8431edbc44dd0c0a7ad1ed3f1a5c40a1284bb735d1b0dcdce38b9",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
-      "changed": false,
+      "changed": true,
       "final_url": "https://www.sg-bcc.org/"
     },
     "https://www.thyroid.org/": {
-      "hash": "e41fae1b3aac4a1670224e3b129105610e2a6fcdb92a4dff61c3efa0d41ecb57",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "hash": "be2f65d88dc6e607fa319aed269ba73da7af6da789ae2c1bcf4a013d2a6be9ac",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
-      "changed": false,
+      "changed": true,
       "final_url": "https://www.thyroid.org/"
     },
     "https://sso2027.eventscribe.net/aaStatic.asp?SFP=UUVUVVJFUlpAMjY4NzBAQWJzdHJhY3QgU3VibWlzc2lvbg": {
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": "curl: (22) The requested URL returned error: 403"
     },
     "https://thyroidworldcongress.com/abstracts/": {
       "hash": "705949dd2489b84d2840f544d7924761b38e64750c9eff166f05c256c268df17",
       "last_success": "2026-11-11T06:30:35.281842+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
-      "error": "curl: (22) The requested URL returned error: 502",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
+      "error": "curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2)",
       "changed": false,
       "final_url": "https://thyroidworldcongress.com/abstracts/"
     },
     "https://www.gbcc.kr/Contents.asp?LoadPage=SubmissionGuideline_2027": {
       "hash": "9c6ee461f63716aa9435929936e6a81a55d6ee7168fa00e9be52dbd49c6ce7d0",
-      "last_success": "2026-11-12T07:16:00.583397+00:00",
-      "last_attempt": "2026-11-12T07:16:00.583397+00:00",
+      "last_success": "2026-11-13T06:50:08.607321+00:00",
+      "last_attempt": "2026-11-13T06:50:08.607321+00:00",
       "error": null,
       "changed": false,
       "final_url": "https://gbcc.kr/Contents?LoadPage=SubmissionGuideline_2027"
     }
   },
   "pending": {},
-  "last_run": "2026-11-12T07:16:00.583397+00:00",
+  "last_run": "2026-11-13T06:50:08.607321+00:00",
   "summary": {
     "sources": 57,
-    "success": 47,
-    "failed": 10,
+    "success": 46,
+    "failed": 11,
     "rules": 46,
     "applied_changes": 0,
     "pending_dates": 0
